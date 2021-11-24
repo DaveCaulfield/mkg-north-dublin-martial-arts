@@ -15,11 +15,21 @@ font-family: hind, sans-serif, arial;
 nav {
     font-size: 110%;
     letter-spacing: 4px;
+    
 }
 
 nav li {
-  
     float: right;
     list-style-type: none;
     margin-right: 30px; 
 }
+nav a {
+    text-decoration: none;
+    color: silver;
+}
+nav a:hover {
+  border-bottom: 2px solid red;
+}
+.active {
+    border-bottom: 1px solid red;
+     }
