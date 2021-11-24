@@ -8,11 +8,14 @@
 
 body {
 font-family: hind, sans-serif, arial;
+background-color: black;
+color: white;
 }
 
 /* navigation menu */
 
 nav {
+    height: 30px;
     font-size: 110%;
     letter-spacing: 4px;
     
@@ -22,10 +25,13 @@ nav li {
     float: right;
     list-style-type: none;
     margin-right: 30px; 
+    margin-top:10px;
+   
 }
 nav a {
     text-decoration: none;
     color: silver;
+    
 }
 nav a:hover {
   border-bottom: 2px solid red;
@@ -33,3 +39,30 @@ nav a:hover {
 .active {
     border-bottom: 1px solid red;
      }
+     
+/* Club name */
+
+
+.clubname {
+    height:240px;
+    font-family: lato;
+    text-align: center;
+    font-size: 60px;
+    margin-top:50px;
+    letter-spacing: 1px;
+    }
+
+    #clubname-hr {
+        background-color:red;
+        width:33%;
+        height:2px;
+       margin:auto;
+    }
+
+#clubname-tagline {
+    height:75px;
+    font-family: hind;
+    text-align: center;
+    margin-top: 20px;
+    letter-spacing: 2px;
+    }
