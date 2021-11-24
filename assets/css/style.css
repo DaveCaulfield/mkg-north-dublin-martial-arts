@@ -31,7 +31,7 @@ nav li {
 nav a {
     text-decoration: none;
     color: silver;
-    
+
 }
 nav a:hover {
   border-bottom: 2px solid red;
@@ -64,5 +64,14 @@ nav a:hover {
     font-family: hind;
     text-align: center;
     margin-top: 20px;
-    letter-spacing: 2px;
+    
+    }
+
+    /* world map image */
+
+    #world-map-image {
+        height:auto;
+        width: 100%;
+        display: 90%;
+
     }
