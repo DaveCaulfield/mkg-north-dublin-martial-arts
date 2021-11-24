@@ -7,6 +7,19 @@
 }
 
 body {
+font-family: hind, sans-serif, arial;
+}
 
-    font-family: hind, sans-serif, arial;
+/* navigation menu */
+
+nav {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+nav li {
+  
+    float: right;
+    list-style-type: none;
+    margin-right: 30px; 
 }
