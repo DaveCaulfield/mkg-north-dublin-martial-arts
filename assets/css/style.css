@@ -1,4 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300&family=Lato:wght@900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 body {
 
-    font-family: arial;
+    font-family: hind, sans-serif, arial;
 }
