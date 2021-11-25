@@ -48,6 +48,9 @@ nav a:hover {
 .clubname-section{
     display:flex;
     flex-direction: column;
+    align-items: center;
+  justify-content: center;
+
 }
 
 .clubname-h1 {
@@ -56,21 +59,27 @@ nav a:hover {
     text-align: center;
     font-size: 65px;
     letter-spacing: 1px;
-    flex:auto;
+    margin-top: 30px;
+    margin-bottom:30px; 
+    
     }
 
     #clubname-hr {
         background-color:red;
         width:33%;
         height:2px;  
-       margin:auto;
+        margin-top: 30px;
+        margin-bottom:30px; 
+        
     }
 
 #clubname-tagline {
     height:15%;
     font-family: hind;
     text-align: center;
-    flex:auto;
+    margin-top: 30px;
+    margin-bottom:30px; 
+    
     }
 
     /* world map image */
