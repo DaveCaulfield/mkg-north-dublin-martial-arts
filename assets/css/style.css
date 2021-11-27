@@ -107,7 +107,19 @@ nav a:hover {
         margin-bottom:30px; 
         }
 
+
+
+
+        .footer-contact {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
         .footer-contact > p {
+            
+            
             color: silver;
             text-align: center;
             font-family: hind;
