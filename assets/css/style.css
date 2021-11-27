@@ -14,6 +14,7 @@ body {
 
 /* navigation menu */
 
+
 nav {
     height: 30px;
     font-size: 110%;
@@ -21,6 +22,7 @@ nav {
     }
 
 nav li {
+    
     float: right;
     list-style-type: none;
     margin-right: 30px; 
@@ -132,3 +134,35 @@ nav a:hover {
         .contact:hover {
             color:#fff400;
            }
+
+
+           /* social media links*/
+
+        .social-networks  {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            list-style-type: none;
+          
+        }
+
+        .social-networks  a {
+            color:grey; 
+            
+            
+        }
+        .social-networks > li {
+        padding: 0px 50px;
+        
+        }
+
+        .social-networks i {
+            font-size: 260%;
+            padding: 10px;
+            margin: 30px;
+        }
+        
+
+           
+           
+      
