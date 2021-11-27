@@ -56,8 +56,8 @@ nav a:hover {
         text-align: center;
         font-size: 55px;
         letter-spacing: 1px;
-        margin-top: 100px;
-        margin-bottom:30px; 
+        margin-top: 120px;
+        margin-bottom:50px; 
         
         }
 
@@ -111,8 +111,12 @@ nav a:hover {
             color: silver;
             text-align: center;
             font-family: hind;
-            font-size: 25px;
+            font-size: 22px;
             margin-top:30px;
             margin-bottom:30px;
 
         }
+
+        .contact:hover {
+            color:#fff400;
+           }
