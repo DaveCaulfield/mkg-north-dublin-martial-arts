@@ -110,16 +110,17 @@ nav a:hover {
         }
 
 
-
+        /* footer contact deails*/
 
         .footer-contact {
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
-        }
+            margin-top: 30px;
+         }
 
-        .footer-contact > p {
+         .footer-contact > p {
             
             
             color: silver;
@@ -128,33 +129,29 @@ nav a:hover {
             font-size: 22px;
             margin-top:30px;
             margin-bottom:30px;
+            }
 
-        }
-
-        .contact:hover {
+         .contact:hover {
             color:#fff400;
            }
 
 
            /* social media links*/
 
-        .social-networks  {
+         .social-networks  {
             display: flex;
             align-items: center;
             justify-content: center;
             list-style-type: none;
-          
-        }
+           }
 
         .social-networks  a {
-            color:grey; 
-            
-            
+            color:grey;   
         }
+
         .social-networks > li {
         padding: 0px 50px;
-        
-        }
+         }
 
         .social-networks i {
             font-size: 260%;
@@ -162,7 +159,10 @@ nav a:hover {
             margin: 30px;
         }
         
-
+        .social-networks i:hover {
+            color:#fff400;
+            
+           }
            
            
       
