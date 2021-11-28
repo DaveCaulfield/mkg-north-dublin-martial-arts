@@ -85,12 +85,38 @@ nav a:hover {
         margin-bottom:30px; 
         }
 
-    /* world map image */
 
-    #world-map-image {
-        height:auto;
-        width: 100%;
+        /* world map image 
+         re-purposed code from love running project
+         tested in test repo*/
+
+    #hero-outer {
+        height: auto;
+        width:100%;
+        overflow:hidden; 
+    }
+
+    #hero-image {
+        height: auto;
+        width:100%;
+
+        /* animates zoom effect on loading page*/
+        animation-name: hero-zoom;
+        animation-duration: 4s;
+        animation-fill-mode: forwards;
         }
+
+    
+        /* creates zoom for hero animation*/
+        @keyframes hero-zoom{
+            from{
+                transform: scale(1.1);
+            }
+            to {
+                transform: scale(1); 
+            }
+        }
+    
 
         .homepage-quote {
             display: flex;
