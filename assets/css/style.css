@@ -21,9 +21,13 @@ nav {
     letter-spacing: 2px;           
     }
 
+    #nav-ul-list{
+        display: flex;
+        justify-content: end;
+    }
+
 nav li {
     
-    float: right;
     list-style-type: none;
     margin-right: 30px; 
     margin-top:10px; 
