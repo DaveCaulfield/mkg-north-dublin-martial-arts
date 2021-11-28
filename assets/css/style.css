@@ -123,7 +123,7 @@ nav a:hover {
          .footer-contact > p {
             
             
-            color: silver;
+            color: #8c8c8c;
             text-align: center;
             font-family: hind;
             font-size: 22px;
@@ -146,17 +146,18 @@ nav a:hover {
            }
 
         .social-networks  a {
-            color:grey;   
+            color:#8c8c8c;   
         }
 
         .social-networks > li {
-        padding: 0px 50px;
+        padding: 0px 25px;
+        margin-bottom: 50px;
          }
 
         .social-networks i {
             font-size: 260%;
             padding: 10px;
-            margin: 30px;
+            margin: 10px;
         }
         
         .social-networks i:hover {
