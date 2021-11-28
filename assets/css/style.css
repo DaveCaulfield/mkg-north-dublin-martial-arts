@@ -90,19 +90,19 @@ nav a:hover {
          re-purposed code from love running project
          tested in test repo*/
 
-    #hero-outer {
+    #map-outer {
         height: auto;
         width:100%;
         overflow:hidden; 
     }
 
-    #hero-image {
+    #map-image {
         height: auto;
         width:100%;
 
         /* animates zoom effect on loading page*/
         animation-name: hero-zoom;
-        animation-duration: 6s;
+        animation-duration: 5s;
         animation-fill-mode: forwards;
         }
 
