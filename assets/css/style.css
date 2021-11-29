@@ -197,7 +197,15 @@ nav a:hover {
            
            
       
+/*About page */
 
+#about-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+        
+
+}
          
         
         
