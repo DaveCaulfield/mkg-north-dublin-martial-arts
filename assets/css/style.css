@@ -64,26 +64,24 @@ nav a:hover {
         text-align: center;
         font-size: 55px;
         letter-spacing: 1px;
-        margin-top: 120px;
-        margin-bottom:50px; 
-        
-        }
-
-    #clubname-hr {
-        background-color:red;
-        width:33%;
-        height:2px;  
-        margin-top:30px;
-        margin-bottom:30px;     
+        margin-top: 30px;  
     }
 
     #clubname-tagline {
         height:15%;
         font-family: hind;
+        font-size: 22px;
         text-align: center;
         margin-top: 10px;
         margin-bottom:30px; 
         }
+
+        #clubname-hr {
+            background-color:red;
+            width:33%;
+            height:2px;  
+            margin-bottom:40px;
+        }   
 
 
         /* world map image 
@@ -199,3 +197,7 @@ nav a:hover {
            
            
       
+
+         
+        
+        
