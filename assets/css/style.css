@@ -100,7 +100,7 @@ nav a:hover {
 
         /* animates zoom effect on loading page*/
         animation-name: hero-zoom;
-        animation-duration: 5s;
+        animation-duration: 8s;
         animation-fill-mode: forwards;
         }
 
