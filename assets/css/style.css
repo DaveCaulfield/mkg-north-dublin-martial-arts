@@ -228,8 +228,13 @@ nav a:hover {
 
   .about-hr {
     background-color:red;
-     width: 40%;
+     width: 33%;
      height:2px;  
      margin-bottom:40px; 
      margin-top:40px; 
+  }
+
+  #tedxtalk {
+    margin-top: 80px;
+      margin-bottom: 40px;
   }
