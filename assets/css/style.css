@@ -210,6 +210,12 @@ nav a:hover {
 #about-flex-container > h2 {
     margin-top:40px; 
    }
+
+   #about-flex-container > img {
+    width: 530px;
+    margin-bottom:20px; 
+    margin-top:20px; 
+   }
         
    #about-flex-container > p {
     flex:auto;
