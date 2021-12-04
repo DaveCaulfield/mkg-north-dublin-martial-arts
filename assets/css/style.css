@@ -200,7 +200,7 @@ nav a:hover {
       
 /* About page */
 
-#about-flex-container {
+.flex-container {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -208,18 +208,18 @@ nav a:hover {
     width:100%;
 }
   
-#about-flex-container > h2 {
+.flex-container > h2 {
     font-size: 28px;
     margin-top:40px; 
    }
 
-   #about-flex-container > img {
+   .flex-container > img {
     width: 530px;
     margin-bottom:20px; 
     margin-top:20px; 
    }
         
-   #about-flex-container > p {
+   .flex-container > p {
     flex:auto;
     font-family: hind;
     font-size: 20px;
