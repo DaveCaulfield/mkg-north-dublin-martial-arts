@@ -204,6 +204,7 @@ nav a:hover {
     width: 530px;
     margin-bottom:20px; 
     margin-top:20px; 
+    border-radius: 5px;
    }
         
    .flex-container > p {
