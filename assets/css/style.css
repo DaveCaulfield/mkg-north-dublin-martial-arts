@@ -225,11 +225,13 @@ nav a:hover {
   }
 
   #tedxtalk {
-    margin-bottom: 80px;
+    margin-top: 60px;
+    margin-bottom: 60px;
   }
 
   #jkd-video {
-    margin-bottom: 40px;
+    margin-top: 60px;
+    margin-bottom: 60px;
   }
 
   .mkglogotext {
@@ -237,7 +239,7 @@ nav a:hover {
   }
 
 
-  /*+++++++++++++++++++++++++++++++++++++++++++++Classes Page+++++++++++++++++++++++++++++++++++*/
+  /*+++++++++++++++++++++++++++++++++++++++++++++Classes Page +++++++++++++++++++++++++++++++++++*/
 
   #timetable {
     width: 50vw;
