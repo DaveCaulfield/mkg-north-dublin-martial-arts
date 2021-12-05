@@ -235,3 +235,86 @@ nav a:hover {
   .mkglogotext {
     box-shadow: 10px 10px 5px #8c8c8c;
   }
+
+
+  /*+++++++++++++++++++++++++++++++++++++++++++++Classes Page+++++++++++++++++++++++++++++++++++*/
+
+  #timetable {
+    width: 33vw;
+    min-width: 33vw;
+    margin-top: 20px;
+  }
+
+   /* accordian interaction */
+   .accordion-timetable > input[type="checkbox"] {
+    position: absolute;
+    left: -100vw;
+  }
+
+  .accordion-timetable .content {
+    overflow-y: hidden;
+    height: 0;
+    transition: height 0.3s ease;
+  }
+
+  .accordion-timetable > input[type="checkbox"]:checked ~ .content {
+    height: auto;
+    overflow: visible;
+  }
+
+  .accordion-timetable label {
+    display: block;
+  }
+
+  /* accordian styling */
+  .accordion-timetable {
+    margin-bottom: 1em;
+  }
+
+  .accordion-timetable > input[type="checkbox"]:checked ~ .content {
+    padding: 15px;
+    border: 1px solid #e8e8e8;
+    border-top: 0;
+  }
+
+  .accordion-timetable .day-h3 {
+    font-family: hind;
+    margin: 0;
+    font-size: 1.5em;
+    line-height: 1.2em;
+    }
+
+    .accordion-timetable label {
+        color: black;
+        cursor: pointer;
+        font-weight: normal;
+        padding: 15px;
+        background: silver;
+      }
+
+    .accordion-timetable label:hover,
+    .accordion-timetable label:focus {
+      background: #d8d8d8; 
+    }
+
+  .accordion-timetable .day-h3 label:before {
+    font-family: hind;
+    content: "\25B6";
+    display: inline-block;
+    margin-right: 10px;
+    font-size: .58em;
+    line-height: 1.556em;
+    vertical-align: middle;
+  }
+
+  .accordion-timetable > input[type="checkbox"]:checked ~ .day-h3 label:before {
+    content: "\262F";
+  }
+
+  .accordion-timetable {
+    max-width: 65em;
+  }
+
+  .content {
+    font-size: 20px;
+  }
