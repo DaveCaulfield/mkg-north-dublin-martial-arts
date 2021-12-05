@@ -327,3 +327,16 @@ nav a:hover {
     margin-bottom:15px; 
     margin-top:5px; 
   }
+
+  .classes-paragraphs {
+    flex:auto;
+     font-family: hind;
+     font-size: 21px;
+     margin-top: 40px;  
+     width:50%;
+ }
+
+ .classes-paragraphs > p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
