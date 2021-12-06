@@ -342,3 +342,15 @@ nav a:hover {
     margin-top: 20px;
     margin-bottom: 20px;
   }
+
+  /* ..................free class form ....................*/
+
+#free-class {
+  display: flex;
+  flex-direction: column;
+  height: 400px;
+  width: 300px;
+  background-color:#8c8c8c;;
+  color:black;
+  padding: 30px;
+}
