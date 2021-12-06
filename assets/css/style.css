@@ -348,17 +348,24 @@ nav a:hover {
 #free-class {
   display: flex;
   flex-direction: column;
-  height: 400px;
+  height: 450px;
   width: 300px;
   background-color:#8c8c8c;;
   color:black;
   padding: 30px;
+  border-radius: 5px;
+  font-size: 24px;
+  font-weight: 600;
 }
 
 #free-class #submit {
   background-color: yellow;
   font-weight: bold;
   padding: 5px;
+  font-size: 24px;
+  font-weight: 600;
+  border-radius: 5px;
+  margin-bottom: 50px;
 }
 #submit:hover {
   cursor: pointer;
