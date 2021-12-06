@@ -222,12 +222,16 @@ nav a:hover {
   }
 
   #tedxtalk {
-    margin-top: 60px;
+    width: 700px;
+    height: 400px; 
+   
     margin-bottom: 60px;
   }
 
   #jkd-video {
-    margin-top: 60px;
+    width: 700px;
+    height: 400px; 
+   
     margin-bottom: 60px;
   }
 
