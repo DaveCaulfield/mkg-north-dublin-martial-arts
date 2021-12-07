@@ -39,7 +39,7 @@ nav li {
    
 nav a {
     text-decoration: none;
-    color: silver;  
+    color: #E1E1E0;   
     }
 
 nav a:hover {
@@ -145,7 +145,7 @@ nav a:hover {
          .footer-contact > p {
             
             
-            color: #8c8c8c;
+            color: #E1E1E0; 
             text-align: center;
             font-family: hind;
             font-size: 22px;
@@ -165,7 +165,7 @@ nav a:hover {
            }
 
         .social-networks  a {
-            color:#8c8c8c;   
+            color:#E1E1E0;    
         }
 
         .social-networks > li {
