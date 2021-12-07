@@ -338,7 +338,21 @@ nav a:hover {
     margin-top:5px; 
   }
 
-  .classes-paragraphs {
+
+  .class-descriptions {
+    font-family: hind;
+     font-size: 21px;
+     margin-top: 40px;  
+     max-width: 800px;
+  }
+
+  .class-descriptions > p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+
+  /*.classes-paragraphs {
     flex:auto;
      font-family: hind;
      font-size: 21px;
@@ -346,7 +360,7 @@ nav a:hover {
      width:50%;
      max-width: 800px;
      color:#E1E1E0;
- }
+ } */
 
  .classes-paragraphs > p {
     margin-top: 20px;
