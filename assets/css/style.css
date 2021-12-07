@@ -358,12 +358,15 @@ nav a:hover {
 #free-class {
   display: flex;
   flex-direction: column;
+  align-items: center;
+        justify-content: center;
   height: 450px;
   width: 300px;
-  background-color:#8c8c8c;;
+  background-color:#cccc00;
   color:black;
   padding: 30px;
   border-radius: 5px;
+  font-family: hind;
   font-size: 24px;
   font-weight: 600;
   margin-bottom: 20px;
