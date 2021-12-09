@@ -419,8 +419,29 @@ nav a:hover {
    cursor: pointer;
   }
 
+
   /* ++++++++++++++++++++++++= Thank you Page +++++++++++++++++++++++++=++++++++++++==*/
+
 .flex-container,
 .Thankyou-message {
   text-align: center;
+}
+
+
+
+
+/*........................... gallery.............................................*/
+
+
+#photos{
+  clear: both;
+  line-height: 0;
+  column-count: 3;
+  column-gap: 8px;
+}
+
+#photos > img {
+  width: 100%;
+  border:black solid 4px;
+  margin: 5px, 5px, 5px, 5px;
 }
