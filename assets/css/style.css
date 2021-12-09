@@ -22,7 +22,8 @@ body {
 nav {
     height: 30px;
     font-size: 110%;
-    letter-spacing: 2px;           
+    letter-spacing: 2px;      
+    padding-bottom: 30px;     
     }
 
     #nav-ul-list{
@@ -391,6 +392,7 @@ nav a:hover {
     margin-bottom: 50px;
     border-radius: 12px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
   }
 
   .form-inputs {
