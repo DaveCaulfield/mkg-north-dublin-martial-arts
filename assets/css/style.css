@@ -418,3 +418,9 @@ nav a:hover {
    border-color: yellow;
    cursor: pointer;
   }
+
+  /* ++++++++++++++++++++++++= Thank you Page +++++++++++++++++++++++++=++++++++++++==*/
+.flex-container,
+.Thankyou-message {
+  text-align: center;
+}
