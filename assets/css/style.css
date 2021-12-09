@@ -469,6 +469,7 @@ nav a:hover {
   line-height: 0;
   column-count: 3;
   column-gap: 8px;
+  margin-bottom: 50px;
 }
 
 #photos > img {
