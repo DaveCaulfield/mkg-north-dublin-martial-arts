@@ -365,33 +365,57 @@ nav a:hover {
 
   /* ..................free class form ....................*/
 
-#free-class {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-        justify-content: center;
-  height: 450px;
-  width: 300px;
-  background-color:#cccc00;
-  color:black;
-  padding: 30px;
-  border-radius: 5px;
-  font-family: hind;
-  font-size: 24px;
-  font-weight: 600;
-  margin-bottom: 20px;
-}
 
-#free-class #submit {
-  background-color: yellow;
-  font-weight: bold;
-  padding: 5px;
-  font-size: 24px;
-  font-weight: 600;
-  border-radius: 5px;
-  margin-bottom: 30px;
-}
-#submit:hover {
-  cursor: pointer;
-  background-color: grey;
-}
+  #free-class {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 275px;
+    font-size: 1.35rem;
+    color:white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-image: url("/assets/images/image-free-class.PNG");
+    background-repeat: no-repeat;
+    background-size: fill;
+    border: solid 3px #8c8c8c;
+    margin-top: 20px;
+    border-radius: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .form-inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .form-inputs > input {
+    margin: 15px 0 10px 0;
+    font-size: 1.25rem;
+    border-radius: 4px;
+    padding:3px;
+    background-color: white;
+  }
+  
+  
+  #free-class #submit {
+    background-color:black;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 18px;
+    font-size: 1.25rem;
+    margin: 10px auto 10px auto;
+    border: solid 4px yellow;
+    display: block;
+  }
+  
+  #free-class #submit:hover {
+   border-color: yellow;
+   color: yellow;
+   cursor: pointer;
+  }
