@@ -382,11 +382,13 @@ nav a:hover {
     color:white;
     padding-top: 15px;
     padding-bottom: 15px;
-    background-image: url("/assets/images/image-free-class.PNG");
+   /* background-image: url("/assets/images/image-free-class.PNG");*/
+   background-color: rgb(20, 12, 12);
     background-repeat: no-repeat;
     background-size: fill;
     border: solid 2px #646853;
     margin-top: 20px;
+    margin-bottom: 50px;
     border-radius: 12px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
