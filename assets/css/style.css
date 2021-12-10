@@ -68,7 +68,7 @@ nav a:hover {
         height:80%;
         font-family: lato;
         text-align: center;
-        font-size: 55px;
+        font-size: 2.5rem;
         letter-spacing: 1px;
         margin-top: 30px;  
     }
@@ -199,7 +199,7 @@ nav a:hover {
   
 .flex-container > h2 {
     font-size: 28px;
-    margin-top:40px; 
+   
    }
 
    
@@ -471,6 +471,7 @@ nav a:hover {
   line-height: 0;
   column-count: 3;
   column-gap: 8px;
+  margin-top: 20px;
   margin-bottom: 50px;
 }
 
@@ -517,5 +518,17 @@ nav a:hover {
 @media screen and (max-width: 500px) {
   #photos {
     column-count: 1; 
+  } 
+}
+
+@media screen and (max-width: 800px) {
+  .clubname-h1 {
+    font-size: 2rem;
+  } 
+}
+
+@media screen and (max-width: 560px) {
+  .clubname-h1 {
+    font-size: 2.5rem;
   } 
 }
