@@ -23,7 +23,8 @@ nav {
     height: 30px;
     font-size: 110%;
     letter-spacing: 2px;      
-    padding-bottom: 30px;     
+    padding-bottom: 30px;   
+    width: 100%;  
     }
 
     #nav-ul-list{
@@ -385,8 +386,8 @@ nav a:hover {
     color:white;
     padding-top: 15px;
     padding-bottom: 15px;
-   /* background-image: url("/assets/images/image-free-class.PNG");*/
-   background-color: rgb(20, 12, 12);
+    background-image: url("/assets/images/image-free-class.PNG");
+   /*background-color: rgb(20, 12, 12);*/
     background-repeat: no-repeat;
     background-size: fill;
     border: solid 2px #646853;
