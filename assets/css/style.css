@@ -386,7 +386,7 @@ nav a:hover {
     color:white;
     padding-top: 15px;
     padding-bottom: 15px;
-    background-image: url("/images/image-free-class.PNG");
+    background-image: url("../images/image-free-class.PNG");
    /*background-color: rgb(20, 12, 12);*/
     background-repeat: no-repeat;
     background-size: fill;
