@@ -389,7 +389,6 @@ nav a:hover {
     background-image: url("../../assets/images/image-free-class.PNG");
    /*background-color: rgb(20, 12, 12);*/
     background-repeat: no-repeat;
-    background-size: fill;
     border: solid 2px #646853;
     margin-top: 20px;
     margin-bottom: 50px;
@@ -477,8 +476,7 @@ nav a:hover {
 
 #photos > img {
   width: 100%;
-  border:black solid 4px;
-  margin: 5px, 5px, 5px, 5px;
+  border:black solid 3px; 
 }
 
 
