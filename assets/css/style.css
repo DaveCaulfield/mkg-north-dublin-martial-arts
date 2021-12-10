@@ -491,3 +491,12 @@ nav a:hover {
   }
 }
 
+@media screen and (max-width: 600px) {
+  #free-class {
+    width: 90%;
+    font-size: 1.1rem;
+  } 
+}
+
+
+
