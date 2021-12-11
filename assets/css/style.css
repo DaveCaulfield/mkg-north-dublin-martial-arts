@@ -486,7 +486,8 @@ nav a:hover {
 
 @media screen and (max-width: 600px) {
   #free-class {
-    width: 85%;
+    width: 90%;
+    height:75%;
     font-size: 1.1rem;
   } 
 }
