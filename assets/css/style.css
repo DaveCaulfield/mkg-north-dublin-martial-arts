@@ -156,12 +156,22 @@ nav a:hover {
 
             .telephone {
               text-decoration:none;
-                        font-size: 1.5rem;
-                        color:white;
-                        margin-bottom: 30px;
+               font-size: 1.5rem;
+              color:white;
+              margin-bottom: 30px;
             }
             
             .telephone:hover {
+              color:#fff400;
+             }
+
+             .email{
+              text-decoration:none;
+              font-size: 1.5rem;
+              color:white;
+             }
+  
+             .email:hover {
               color:#fff400;
              }
 
