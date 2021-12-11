@@ -234,17 +234,12 @@ nav a:hover {
   
   }    
 
-  
-
   .iframe-vid {
     width: 700px;
     height: 400px; 
     margin-bottom: 60px;
   }
 
-  .mkglogotext {
-    box-shadow: 10px 10px 5px #8c8c8c;
-  }
 
 .about-images {
   width: 400px;
@@ -258,12 +253,12 @@ nav a:hover {
 
 }
 
-  
   .mkglogotext {
     width: 190px;
     height: 60px;
     object-fit: contain;
     overflow: hidden;
+    box-shadow: 10px 10px 5px #8c8c8c;
 }
 
 
@@ -362,23 +357,6 @@ nav a:hover {
   }
 
 
-
-  /*.classes-paragraphs {
-    flex:auto;
-     font-family: hind;
-     font-size: 21px;
-     margin-top: 40px;  
-     width:50%;
-     max-width: 800px;
-     color:#E1E1E0;
- } */
-
- /*.classes-paragraphs > p {
-    margin-top: 20px;
-    margin-bottom: 20px;
-  }
-  */
-
   /* ..................free class form ....................*/
 
 
@@ -398,7 +376,7 @@ nav a:hover {
     background-repeat: no-repeat;
     border: solid 2px #646853;
     margin-top: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
     border-radius: 12px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     
