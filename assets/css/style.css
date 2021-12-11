@@ -416,11 +416,18 @@ nav a:hover {
    cursor: pointer;
   }
 
+  #Musahi-quote {
+    font-size: 1.2rem;
+    text-align: center;
+    width:100%;
+  }
+
 
   /* ++++++++++++++++++++++++= Thank you Page +++++++++++++++++++++++++=++++++++++++==*/
 
 .thankyou-paragraph {
   text-align: center;
+  color: silver;
 }
 
 /*........................... gallery.............................................*/
