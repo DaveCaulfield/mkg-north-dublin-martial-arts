@@ -21,7 +21,7 @@ body {
 
 nav {
     height: 30px;
-    font-size: 110%;
+    font-size: 1.4rem;
     letter-spacing: 2px;      
     padding-bottom: 30px;   
     width: 100%;  
@@ -151,14 +151,14 @@ nav a:hover {
           color:silver;
             text-align: center;
             font-family: hind;
-            font-size: 1.5rem;
+            font-size: 1.4rem;
             margin-top:40px;
             margin-bottom:20px;
             }
 
             .telephone {
               text-decoration:none;
-               font-size: 1.5rem;
+               font-size: 1.4rem;
               color:silver;
               margin-bottom: 30px;
             }
@@ -169,7 +169,7 @@ nav a:hover {
 
              .email{
               text-decoration:none;
-              font-size: 1.5rem;
+              font-size: 1.4rem;
               color:silver;
              }
   
