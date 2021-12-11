@@ -164,7 +164,7 @@ nav a:hover {
             }
             
             .telephone:hover {
-              color:#fff400;
+              color: yellow;
              }
 
              .email{
@@ -174,7 +174,7 @@ nav a:hover {
              }
   
              .email:hover {
-              color:#fff400;
+              color: yellow;
              }
 
          .social-networks  {
@@ -200,7 +200,7 @@ nav a:hover {
         }
         
         .social-networks i:hover {
-            color:#fff400;
+            color:yellow;
             
            }
            
