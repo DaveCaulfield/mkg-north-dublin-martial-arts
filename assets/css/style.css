@@ -226,7 +226,7 @@ nav a:hover {
    .flex-container > p {
     flex:auto;
     font-family: hind;
-    font-size: 20px;
+    font-size: 1.4rem;
     padding: 10px;
     margin: 10px;
     max-width: 700px; 
@@ -234,13 +234,7 @@ nav a:hover {
   
   }    
 
-  .about-hr {
-    background-color:red;
-     width: 33%;
-     height:2px;  
-     margin-bottom:50px; 
-     margin-top:45px; 
-  }
+  
 
   .iframe-vid {
     width: 700px;
@@ -465,7 +459,7 @@ nav a:hover {
 .thankyou-paragraph {
   text-align: center;
   font-family: hind;
-    font-size: 1.5rem;
+    font-size: 1.35rem;
     padding: 10px;
     margin: 10px;
     color:#E1E1E0;  
