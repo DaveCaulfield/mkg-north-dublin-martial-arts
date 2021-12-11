@@ -154,9 +154,16 @@ nav a:hover {
             margin-bottom:30px;
             }
 
-         .contact:hover {
-            color:#fff400;
-           }
+            .telephone {
+              text-decoration:none;
+                        font-size: 1.5rem;
+                        color:white;
+                        margin-bottom: 30px;
+            }
+            
+            .telephone:hover {
+              color:#fff400;
+             }
 
          .social-networks  {
             display: flex;
