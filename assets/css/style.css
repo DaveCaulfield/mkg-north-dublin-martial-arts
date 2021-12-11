@@ -223,13 +223,7 @@ nav a:hover {
      margin-top:45px; 
   }
 
-  #tedxtalk {
-    width: 700px;
-    height: 400px; 
-    margin-bottom: 60px;
-  }
-
-  #jkd-video {
+  .iframe-vid {
     width: 700px;
     height: 400px; 
     margin-bottom: 60px;
@@ -530,3 +524,23 @@ nav a:hover {
     font-size: 2.5rem;
   } 
 }
+@media screen and (max-width: 800px) {
+  .iframe-container{
+    position: relative;
+    width:100%;
+    padding-bottom: 56.25%;
+    height:0
+      }
+  
+      @media screen and (max-width: 800px) {
+  .iframe-vid{
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+  }
+      }
+   
