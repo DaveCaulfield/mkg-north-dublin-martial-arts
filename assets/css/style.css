@@ -570,3 +570,9 @@ nav a:hover {
     width:90%;
         }
       }
+
+      @media screen and (max-width: 600px) {
+        .telephone, .email{
+         font-size: 1.2rem;
+           }
+         }
