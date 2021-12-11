@@ -242,11 +242,10 @@ nav a:hover {
 
 
 .about-images {
-  width: 400px;
+  width: 530px;
     height: 600px;
     object-fit: contain;
     overflow: hidden;
-    width: 530px;
     margin-bottom:20px; 
     margin-top:20px; 
     border-radius: 5px;
@@ -548,3 +547,9 @@ nav a:hover {
          font-size: 1.2rem;
            }
          }
+
+         @media screen and (max-width: 600px) {
+          .about-images{
+            width: 100vw;
+          }
+        }
