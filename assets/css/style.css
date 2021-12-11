@@ -565,3 +565,8 @@ nav a:hover {
   }
       }
    
+      @media screen and (max-width: 800px) {
+        .thankyou-paragraph {
+    width:90%;
+        }
+      }
