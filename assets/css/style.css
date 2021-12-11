@@ -86,7 +86,7 @@ nav a:hover {
             width:33%;
             height:2px;  
             margin-top: 30px;
-            margin-bottom:40px;
+            margin-bottom:50px;
             max-width: 600px;
         }   
 
@@ -427,7 +427,7 @@ nav a:hover {
     align-items: center;
     justify-content: center;
     width:100%;
-    margin-top:100px;
+   
   }
   .thankyou-flex-container > h2{
     padding: 20px 20px;
