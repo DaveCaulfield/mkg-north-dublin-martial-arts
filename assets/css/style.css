@@ -143,6 +143,7 @@ nav a:hover {
             align-items: center;
             justify-content: center;
             margin-top: 30px;
+            padding: 50px;
          }
 
          .footer-contact > p {
@@ -150,7 +151,7 @@ nav a:hover {
             text-align: center;
             font-family: hind;
             font-size: 22px;
-            margin-top:30px;
+            margin-top:60px;
             margin-bottom:30px;
             }
 
