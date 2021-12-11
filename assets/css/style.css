@@ -41,7 +41,7 @@ nav li {
    
 nav a {
     text-decoration: none;
-    color: #E1E1E0;   
+    color:silver;   
     }
 
 nav a:hover {
@@ -144,21 +144,22 @@ nav a:hover {
             justify-content: center;
             margin-top: 30px;
             padding: 50px;
+           
          }
 
          .footer-contact > p {
-            color: #E1E1E0; 
+          color:silver;
             text-align: center;
             font-family: hind;
-            font-size: 22px;
-            margin-top:60px;
-            margin-bottom:30px;
+            font-size: 1.5rem;
+            margin-top:40px;
+            margin-bottom:20px;
             }
 
             .telephone {
               text-decoration:none;
                font-size: 1.5rem;
-              color:white;
+              color:silver;
               margin-bottom: 30px;
             }
             
@@ -169,7 +170,7 @@ nav a:hover {
              .email{
               text-decoration:none;
               font-size: 1.5rem;
-              color:white;
+              color:silver;
              }
   
              .email:hover {
@@ -184,7 +185,7 @@ nav a:hover {
            }
 
         .social-networks  a {
-            color:#E1E1E0;    
+          color:silver;    
         }
 
         .social-networks > li {
