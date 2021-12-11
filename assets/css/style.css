@@ -237,7 +237,8 @@ nav a:hover {
   .iframe-vid {
     width: 700px;
     height: 400px; 
-    margin-bottom: 60px;
+    margin-top: 30px;
+    margin-bottom: 30px;
   }
 
 
