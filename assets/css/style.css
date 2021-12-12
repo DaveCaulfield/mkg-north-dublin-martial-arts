@@ -78,14 +78,12 @@ nav a:hover {
         font-size: 1.5rem;
         text-align: center;
         margin-top: 10px; 
-        margin-bottom: 20px;
-        margin-right: 80px;
+       
         letter-spacing: 3px;
         }
 
         #club-tagline {
           color:red;
-         
           font-weight: 500;
         }
 
@@ -95,7 +93,7 @@ nav a:hover {
             height:2px;  
             letter-spacing: 5px;
             margin-top: 30px;
-            margin-bottom:50px;
+            margin-bottom:40px;
             max-width: 600px;
         }   
 
@@ -550,7 +548,8 @@ nav a:hover {
 
         @media screen and (max-width: 600px) {
           #clubname-tagline{
-            font-size: 1.2rem;
-            width: 90%;
+            font-size: 1.1rem;
+            width: 100%;
+            letter-spacing: 1px;
              
         }
