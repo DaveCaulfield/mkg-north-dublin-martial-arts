@@ -547,4 +547,9 @@ nav a:hover {
         }
 
 
-        
+        @media screen and (max-width: 600px) {
+          #clubname-tagline{
+            font-size: 1.2rem;
+            width: 90%;
+             
+        }
