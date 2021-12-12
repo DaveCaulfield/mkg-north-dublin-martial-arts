@@ -65,26 +65,34 @@ nav a:hover {
         }
 
     .clubname-h1 {
-        height:80%;
+     
         font-family: lato;
         text-align: center;
-        font-size: 2.5rem;
+        font-size: 2.6rem;
         letter-spacing: 1px;
         margin-top: 30px;  
     }
 
     #clubname-tagline {
-        height:15%;
         font-family: hind;
-        font-size: 22px;
+        font-size: 1.5rem;
         text-align: center;
         margin-top: 10px; 
+        margin-bottom: 20px;
+        margin-right: 80px;
+        }
+
+        #club-tagline {
+          color:red;
+          letter-spacing: 5px;
+          font-weight: 500;
         }
 
         .redline-hr {
             background-color:red;
             width:33%;
             height:2px;  
+            letter-spacing: 5px;
             margin-top: 30px;
             margin-bottom:50px;
             max-width: 600px;
@@ -537,3 +545,6 @@ nav a:hover {
             width: 100vw;
           }
         }
+
+
+        
