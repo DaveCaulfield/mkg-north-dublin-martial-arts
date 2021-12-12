@@ -1,436 +1,436 @@
 @import url('https://fonts.googleapis.com/css2?family=Hind:wght@300&family=Lato:wght@900&display=swap');
 
 * {
-    margin: 0;
-    padding: 0;
-    border: none;
-    }
+  margin: 0;
+  padding: 0;
+  border: none;
+}
 
 body {
-    font-family: hind, sans-serif, arial;
-    background-color: black;
-    color: white;
-    }
+  font-family: hind, sans-serif, arial;
+  background-color: black;
+  color: white;
+}
 
-    
-    
-  
+
+
+
 
 /* ....................navigation menu ....................*/
 
 
 nav {
-    height: 30px;
-    font-size: 1.2rem;
-    letter-spacing: 2px;      
-    padding-bottom: 30px;   
-    width: 100%;  
-    }
+  height: 30px;
+  font-size: 1.2rem;
+  letter-spacing: 2px;
+  padding-bottom: 30px;
+  width: 100%;
+}
 
-    #nav-ul-list{
-        display: flex;
-        justify-content: end;
-    }
+#nav-ul-list {
+  display: flex;
+  justify-content: end;
+}
 
 nav li {
-    
-    list-style-type: none;
-    margin-right: 30px; 
-    margin-top:10px; 
-    }
-   
+
+  list-style-type: none;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+
 nav a {
-    text-decoration: none;
-    color:silver;   
-    }
+  text-decoration: none;
+  color: silver;
+}
 
 nav a:hover {
-    border-bottom: 2px solid red;
-    color:white;
-    }
+  border-bottom: 2px solid red;
+  color: white;
+}
 
 .active {
-    border-bottom: 1px solid red;
-   
-    }
-  
-     
- /* ..........................Club name section............................*/
-    .clubname-container {
-        display:flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        width:100%;
-        }
+  border-bottom: 1px solid red;
 
-    .clubname-h1 {
-     
-        font-family: lato;
-        text-align: center;
-        font-size: 2.6rem;
-        letter-spacing: 1px;
-        margin-top: 30px;  
-    }
-
-    #clubname-tagline {
-        font-family: hind;
-        font-size: 1.5rem;
-        text-align: center;
-        margin-top: 10px; 
-       
-        letter-spacing: 3px;
-        }
-
-        #club-tagline {
-          color:red;
-          font-weight: 500;
-        }
-
-        .redline-hr {
-            background-color:red;
-            width:33%;
-            height:2px;  
-            letter-spacing: 5px;
-            margin-top: 30px;
-            margin-bottom:40px;
-            max-width: 600px;
-        }   
+}
 
 
-        /* ........................world map image ...........................*/
+/* ..........................Club name section............................*/
+.clubname-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
 
-    #map-outer {
-        width:100%;
-        overflow:hidden; 
-    }
+.clubname-h1 {
 
-    #map-image {
-        width:100%;
+  font-family: lato;
+  text-align: center;
+  font-size: 2.6rem;
+  letter-spacing: 1px;
+  margin-top: 30px;
+}
 
-        /* animates zoom effect on loading page*/
-        animation-name: hero-zoom;
-        animation-duration: 8s;
-        animation-fill-mode: forwards;
-        }
+#clubname-tagline {
+  font-family: hind;
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 10px;
 
-    
-        /* creates zoom for map of world*/
-        @keyframes hero-zoom{
-            from{
-                transform: scale(1.1);
-            }
-            to {
-                transform: scale(1); 
-            }
-        }
-    
+  letter-spacing: 3px;
+}
 
-        .homepage-quote {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            width:100%;
-        }
+#club-tagline {
+  color: red;
+  font-weight: 500;
+}
 
-        #quote {
-            text-align: center;
-            font-size: 20px;
-            margin-top:40px;
-            margin-bottom:30px;
-        }
+.redline-hr {
+  background-color: red;
+  width: 33%;
+  height: 2px;
+  letter-spacing: 5px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  max-width: 600px;
+}
 
-    
-        /* .......................footer section................................*/
 
-        .footer-contact {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            margin-top: 30px;
-            padding: 50px;
-           
-         }
+/* ........................world map image ...........................*/
 
-         .footer-contact > p {
-          color:silver;
-            text-align: center;
-            font-family: hind;
-            font-size: 1.4rem;
-            margin-top:40px;
-            margin-bottom:20px;
-            }
+#map-outer {
+  width: 100%;
+  overflow: hidden;
+}
 
-            .telephone {
-              text-decoration:none;
-               font-size: 1.4rem;
-              color:silver;
-              margin-bottom: 30px;
-            }
-            
-            .telephone:hover {
-              color: yellow;
-             }
+#map-image {
+  width: 100%;
 
-             .email{
-              text-decoration:none;
-              font-size: 1.4rem;
-              color:silver;
-             }
-  
-             .email:hover {
-              color: yellow;
-             }
+  /* animates zoom effect on loading page*/
+  animation-name: hero-zoom;
+  animation-duration: 8s;
+  animation-fill-mode: forwards;
+}
 
-         .social-networks  {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            list-style-type: none;
-           }
 
-        .social-networks  a {
-          color:silver;    
-        }
+/* creates zoom for map of world*/
+@keyframes hero-zoom {
+  from {
+    transform: scale(1.1);
+  }
 
-        .social-networks > li {
-        padding: 0px 25px;
-        margin-bottom: 50px;
-         }
+  to {
+    transform: scale(1);
+  }
+}
 
-        .social-networks i {
-            font-size: 260%;
-            padding: 10px;
-            margin: 10px;
-        }
-        
-        .social-networks i:hover {
-            color:yellow;
-            
-           }
-           
-           
-      
+
+.homepage-quote {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+#quote {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+
+/* .......................footer section................................*/
+
+.footer-contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+  padding: 50px;
+
+}
+
+.footer-contact>p {
+  color: silver;
+  text-align: center;
+  font-family: hind;
+  font-size: 1.4rem;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.telephone {
+  text-decoration: none;
+  font-size: 1.4rem;
+  color: silver;
+  margin-bottom: 30px;
+}
+
+.telephone:hover {
+  color: yellow;
+}
+
+.email {
+  text-decoration: none;
+  font-size: 1.4rem;
+  color: silver;
+}
+
+.email:hover {
+  color: yellow;
+}
+
+.social-networks {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+}
+
+.social-networks a {
+  color: silver;
+}
+
+.social-networks>li {
+  padding: 0px 25px;
+  margin-bottom: 50px;
+}
+
+.social-networks i {
+  font-size: 260%;
+  padding: 10px;
+  margin: 10px;
+}
+
+.social-networks i:hover {
+  color: yellow;
+
+}
+
+
+
 /* ++++++++++++++++++++++++++++++++++++++++++++++++++++About page+++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 
 .flex-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    width:Adjust100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: Adjust100vw;
 }
-  
-.flex-container > h2 {
-    font-size: 28px;
-    margin-top: 40px;
-   
-   }
 
-   
-        
-   .flex-container > p {
-    flex:auto;
-    font-family: hind;
-    font-size: 1.4rem;
-    padding-bottom: 10px;
-    margin: 10px;
-    max-width: 700px; 
-    color:#E1E1E0;  
-  
-  }    
+.flex-container>h2 {
+  font-size: 28px;
+  margin-top: 40px;
 
-  .iframe-vid {
-    width: 700px;
-    height: 400px; 
-    margin-top: 30px;
-    margin-bottom: 30px;
-  }
+}
 
+
+
+.flex-container>p {
+  flex: auto;
+  font-family: hind;
+  font-size: 1.4rem;
+  padding-bottom: 10px;
+  margin: 10px;
+  max-width: 700px;
+  color: #E1E1E0;
+
+}
+
+.iframe-vid {
+  width: 700px;
+  height: 400px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
 
 .about-images {
   width: 530px;
-    height: 600px;
-    object-fit: contain;
-    overflow: hidden;
-    margin-bottom:20px; 
-    margin-top:20px; 
-    border-radius: 5px;
+  height: 600px;
+  object-fit: contain;
+  overflow: hidden;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border-radius: 5px;
 
 }
 
-  .mkglogotext {
-    width: 190px;
-    height: 60px;
-    object-fit: contain;
-    overflow: hidden;
-    box-shadow: 10px 10px 5px #8c8c8c;
+.mkglogotext {
+  width: 190px;
+  height: 60px;
+  object-fit: contain;
+  overflow: hidden;
+  box-shadow: 10px 10px 5px #8c8c8c;
 }
 
 
-  /*+++++++++++++++++++++++++++++++++++++++++++++Classes Page +++++++++++++++++++++++++++++++++++*/
+/*+++++++++++++++++++++++++++++++++++++++++++++Classes Page +++++++++++++++++++++++++++++++++++*/
 
-  #timetable {
-    width: 50vw;
-    max-width: 400px;
-    
-    text-align: left;
-  }
+#timetable {
+  width: 50vw;
+  max-width: 400px;
 
-   /* accordian interaction */
-   .accordion-timetable > input[type="checkbox"] {
-    position: absolute;
-    left: -100vw;
-  }
+  text-align: left;
+}
 
-  .accordion-timetable .content {
-    overflow-y: hidden;
-    height: 0;
-    transition: height 0.3s ease;
-  }
+/* accordian interaction */
+.accordion-timetable>input[type="checkbox"] {
+  position: absolute;
+  left: -100vw;
+}
 
-  .accordion-timetable > input[type="checkbox"]:checked ~ .content {
-    height: auto;
-    overflow: visible;
-  }
+.accordion-timetable .content {
+  overflow-y: hidden;
+  height: 0;
+  transition: height 0.3s ease;
+}
 
-  .accordion-timetable label {
-    display: block;
-    border-radius: 5px;
-  }
+.accordion-timetable>input[type="checkbox"]:checked~.content {
+  height: auto;
+  overflow: visible;
+}
 
-  /* accordian styling */
-  .accordion-timetable {
-    margin-bottom: 1em;
-  }
+.accordion-timetable label {
+  display: block;
+  border-radius: 5px;
+}
 
-  .accordion-timetable > input[type="checkbox"]:checked ~ .content {
-    padding: 15px;
-    border: 1px solid #e8e8e8;
-    border-top: 0;
-  }
+/* accordian styling */
+.accordion-timetable {
+  margin-bottom: 1em;
+}
 
-  .accordion-timetable .day-h3 {
-    font-family: hind;
-    margin: 0;
-    font-size: 1.5em;
-    line-height: 1.2em;
-    }
+.accordion-timetable>input[type="checkbox"]:checked~.content {
+  padding: 15px;
+  border: 1px solid #e8e8e8;
+  border-top: 0;
+}
 
-    .accordion-timetable label {
-        color: black;
-        cursor: pointer;
-        font-weight: normal;
-        padding: 15px;
-        background: silver;
-      }
+.accordion-timetable .day-h3 {
+  font-family: hind;
+  margin: 0;
+  font-size: 1.5em;
+  line-height: 1.2em;
+}
 
-    .accordion-timetable label:hover,
-    .accordion-timetable label:focus {
-      background: #d8d8d8; 
-    }
+.accordion-timetable label {
+  color: black;
+  cursor: pointer;
+  font-weight: normal;
+  padding: 15px;
+  background: silver;
+}
 
-  .accordion-timetable .day-h3 label:before {
-    font-family: hind;
-    content: "\25B6";
-    display: inline-block;
-    margin-right: 10px;
-    font-size: .58em;
-    line-height: 1.556em;
-    vertical-align: middle;
-  }
+.accordion-timetable label:hover,
+.accordion-timetable label:focus {
+  background: #d8d8d8;
+}
 
-  .accordion-timetable > input[type="checkbox"]:checked ~ .day-h3 label:before {
-    content: "\262F";
-  }
+.accordion-timetable .day-h3 label:before {
+  font-family: hind;
+  content: "\25B6";
+  display: inline-block;
+  margin-right: 10px;
+  font-size: .58em;
+  line-height: 1.556em;
+  vertical-align: middle;
+}
 
-  .accordion-timetable {
-    max-width: 65em;
-  }
+.accordion-timetable>input[type="checkbox"]:checked~.day-h3 label:before {
+  content: "\262F";
+}
 
-  .content {
-    font-size: 20px;
-  }
+.accordion-timetable {
+  max-width: 65em;
+}
 
-  .timetable-hr {
-    color: #F90716;
-    
-    max-width: 400px;
-    border-style: solid;
-    border-width: 1px;
-    margin-bottom:15px; 
-    margin-top:5px; 
-  }
+.content {
+  font-size: 20px;
+}
 
+.timetable-hr {
+  color: #F90716;
 
-  /* ..................free class form ....................*/
+  max-width: 400px;
+  border-style: solid;
+  border-width: 1px;
+  margin-bottom: 15px;
+  margin-top: 5px;
+}
 
 
-  #free-class {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    width: 500px;
-    height: 275px;
-    font-size: 1.35rem;
-    color:white;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    background-image: url("../../assets/images/image-free-class.PNG");
-   /*background-color: rgb(20, 12, 12);*/
-    background-repeat: no-repeat;
-    border: solid 2px #646853;
-    margin-top: 20px;
-    margin-bottom: 60px;
-    border-radius: 12px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
-  }
-
-  .form-inputs {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .form-inputs > input {
-    margin: 15px 0 10px 0;
-    font-size: 1.25rem;
-    border-radius: 4px;
-    padding:3px;
-    background-color: white;
-  }
-  
-  
-  #free-class #submit {
-    background-color:yellow;
-    color: black;
-    font-weight: bold;
-    padding: 8px;
-    border-radius: 18px;
-    font-size: 1.35rem;
-    margin: 10px auto 10px auto;
-    border: solid 2px black;
-    display: block;
-  }
-  
-  #free-class #submit:hover {
-   border-color: yellow;
-   cursor: pointer;
-  }
-
-  #Musahi-quote {
-    font-size: 1.2rem;
-    text-align: center;
-    width:100%;
-  }
+/* ..................free class form ....................*/
 
 
-  /* ++++++++++++++++++++++++= Thank you Page +++++++++++++++++++++++++=++++++++++++==*/
+#free-class {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 275px;
+  font-size: 1.35rem;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-image: url("../../assets/images/image-free-class.PNG");
+  /*background-color: rgb(20, 12, 12);*/
+  background-repeat: no-repeat;
+  border: solid 2px #646853;
+  margin-top: 20px;
+  margin-bottom: 60px;
+  border-radius: 12px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.form-inputs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-inputs>input {
+  margin: 15px 0 10px 0;
+  font-size: 1.25rem;
+  border-radius: 4px;
+  padding: 3px;
+  background-color: white;
+}
+
+
+#free-class #submit {
+  background-color: yellow;
+  color: black;
+  font-weight: bold;
+  padding: 8px;
+  border-radius: 18px;
+  font-size: 1.35rem;
+  margin: 10px auto 10px auto;
+  border: solid 2px black;
+  display: block;
+}
+
+#free-class #submit:hover {
+  border-color: yellow;
+  cursor: pointer;
+}
+
+#Musahi-quote {
+  font-size: 1.2rem;
+  text-align: center;
+  width: 100%;
+}
+
+
+/* ++++++++++++++++++++++++= Thank you Page +++++++++++++++++++++++++=++++++++++++==*/
 
 .thankyou-paragraph {
   text-align: center;
@@ -440,18 +440,17 @@ nav a:hover {
 /*........................... gallery.............................................*/
 
 
-#photos{
+#photos {
   clear: both;
   line-height: 0;
   column-count: 3;
   column-gap: 8px;
-  margin-top: 20px;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
-#photos > img {
+#photos>img {
   width: 100%;
-  border:black solid 3px; 
+  border: black solid 3px;
 }
 
 
@@ -468,88 +467,91 @@ nav a:hover {
 @media screen and (max-width: 600px) {
   #free-class {
     width: 90%;
-    height:75%;
+    height: 75%;
     font-size: 1.1rem;
-  } 
+  }
 }
 
 @media screen and (max-width: 600px) {
   #nav-ul-list {
     width: 100%;
     font-size: 1rem;
-    margin:0;
+    margin: 0;
     letter-spacing: 1px;
     padding: 10px;
-  } 
+  }
 }
 
 @media screen and (max-width: 1200px) {
   #photos {
-    column-count: 2; 
-  } 
+    column-count: 2;
+  }
 }
 
 @media screen and (max-width: 500px) {
   #photos {
-    column-count: 1; 
-  } 
+    column-count: 1;
+  }
 }
 
 @media screen and (max-width: 800px) {
   .clubname-h1 {
     font-size: 2rem;
-  } 
+  }
 }
 
 @media screen and (max-width: 560px) {
   .clubname-h1 {
     font-size: 2.5rem;
-  } 
-}
-@media screen and (max-width: 800px) {
-  .iframe-container{
-    position: relative;
-    width:100%;
-    padding-bottom: 56.25%;
-    height:0
-      }
-    }
-  
- @media screen and (max-width: 800px) {
-  .iframe-vid{
-        position: absolute;
-        top: 0;
-        left: 0;
-        bottom: 0;
-        right: 0;
-        width: 100%;
-        height: 100%;
   }
-      }
-   
-      @media screen and (max-width: 800px) {
-        .thankyou-paragraph {
-    width:90%;
-        }
-      }
+}
 
-      @media screen and (max-width: 600px) {
-        .telephone, .email{
-         font-size: 1.2rem;
-           }
-         }
+@media screen and (max-width: 800px) {
+  .iframe-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0
+  }
+}
 
-         @media screen and (max-width: 600px) {
-          .about-images{
-            width: 100vw;
-          }
-        }
+@media screen and (max-width: 800px) {
+  .iframe-vid {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .thankyou-paragraph {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+
+  .telephone,
+  .email {
+    font-size: 1.2rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .about-images {
+    width: 100vw;
+  }
+}
 
 
-        @media screen and (max-width: 600px) {
-          #clubname-tagline{
-            font-size: 1.1rem;
-            width: 100%;
-            letter-spacing: 1px;
-             
-        }
+@media screen and (max-width: 600px) {
+  #clubname-tagline {
+    font-size: 1.25rem;
+    width: 100%;
+    letter-spacing: 1px;
+
+  }
