@@ -80,11 +80,12 @@ nav a:hover {
         margin-top: 10px; 
         margin-bottom: 20px;
         margin-right: 80px;
+        letter-spacing: 3px;
         }
 
         #club-tagline {
           color:red;
-          letter-spacing: 5px;
+         
           font-weight: 500;
         }
 
