@@ -66,7 +66,7 @@ nav a:hover {
 
 .clubname-h1 {
 
-  font-family: lato;
+  font-family: lato, tahoma;
   text-align: center;
   font-size: 2.6rem;
   letter-spacing: 1px;
@@ -240,7 +240,7 @@ html {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: Adjust100vw;
+  width: 100vw;
 }
 
 .flex-container>h2 {
@@ -258,7 +258,7 @@ html {
   padding-bottom: 10px;
   margin: 10px;
   max-width: 700px;
-  color: #E1E1E0;
+  color: silver;
 
 }
 
