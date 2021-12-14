@@ -36,3 +36,26 @@ The wireframes for MKG North Dublin website were produced using Balsamiq. There 
 <img src="docs/wireframe/wireframe-desktop-4.png" width="900" height="1000" alt="wireframe for desktop" />
 
 [Back to top](#mkg-north-dublin)
+
+## Site Structure
+The MKG North Dublin website has four pages. The [home](index.html) page, [about](about.html) page, [classes](classes.html) page and [gallery](gallery.html) page are all accessible from the navigation menu links. There is a [thank you](thankyou.html) page that greets the user after they submit a request for a free class via the free class form.
+
+[Back to top](#mkg-north-dublin)
+
+
+## Design Choices
+
+### Typography
+The fonts used are Lato with a fallback of tahoma for the main heading and hind with a fall back of san-serif for the section headings and body text.
+
+- Lato allows for a less formal and a more welcoming feel to the large bold text used in the main heading on the homepage. 
+
+-  Hind is used for section heading and gives a less formal, more welcoming feel. Hind is also used in the body text and contrast with the section headings. Its clear and easily readable for the user. 
+
+###   Colour scheme
+
+The colour scheme is based on the MKG North Dublin martial arts club colours - black, white, red, yellow.
+Black gives a premium feel to the club website. Subtle use of white, red and yellow help to emphasis different parts of the website and its features. The body text was changed from white to silver to add more contrast with the section headings and make the text easier to read.
+
+
+[Back to top](#mkg-north-dublin)
