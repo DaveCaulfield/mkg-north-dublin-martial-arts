@@ -98,5 +98,14 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
    - The about pages provides information to the user about the coaches, the club, the different arts taught at the club, and the benefits of martial arts practice.
 
+   ## Our Coaches
+   - Our Coaches section provides a photo and background information of the coaches. 
+   - The coaches smiling in the photo re-assures the user and helps the user connect with the coaches. It conveys a message of fun.
+   - The red, black and white of the instructor photo also connects with the website color scheme and overall theme. 
+
+<img src="docs/readme-images/our-coaches.png" alt="image mkg north dublin coaches" />
+
+  [Back to top](#mkg-north-dublin) 
+
 
 
