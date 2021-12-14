@@ -26,6 +26,17 @@ HTML vaildator results:
  ![HTML Thank you page vaildataion](/docs/readme-images/html-validator.png)
 
 
+
  CSS Vaildator results:
 
  ![CSS Vaildator results](/docs/readme-images/css-validator.png)
+
+
+ ## Responsiveness Testing
+- Responsivness was tested using [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive design checker](https://responsivedesignchecker.com/). 
+    - The site was found to be responsive for small, medium and large screens.
+
+## Browser Compatibility
+
+- Different browsers were used to test the MKG North Dublin website. The site was found to work accross Google Chrome, Safari, Microsoft Edge and Mozilla Firefox web browsers. 
+
