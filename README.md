@@ -116,3 +116,12 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
   [Back to top](#mkg-north-dublin)  
 
+  ##  Description of arts
+
+   - A description is given of the three main type of martial arts available at the club. This gives the user a clear understanding to the user of what arts the club teaches.
+   
+   <img src="docs/readme-images/three-arts.png" alt="screen shot mkg north dublin arts section" />
+
+  [Back to top](#mkg-north-dublin)  
+  
+
