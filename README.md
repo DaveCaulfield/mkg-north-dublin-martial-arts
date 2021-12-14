@@ -168,3 +168,15 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
   [Back to top](#mkg-north-dublin) 
 
+  ## Free class - Thank You Page
+   - A Thank you page greets the user when they submit the free class form.
+   - This is used as there is no post function in the website.
+   - The Thank you page explains to the user that their free class is waiting for them but the application form did not go through. It informs the user to email the club to arrange their free class. The thank you messaage is signed off by the head coach.
+   - The familar navigation menu and footer are in place on the thank you page.
+   - The thank you page feature allows the website to be used as is by MKG North Dublin Ltd without having to wait for a form post function or back end to be added.
+
+   <img src="docs/readme-images/thankyou-page.png" alt="screen shot of mkg north dublin thank you page" />
+
+  [Back to top](#mkg-north-dublin) 
+
+
