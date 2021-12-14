@@ -52,3 +52,11 @@ HTML vaildator results:
 
 
 <img src="docs/readme-images/timetable-fix.png" width="300" height="650" alt="screen shot of timetable fix"/>
+
+
+# Additional Testing
+
+## Lighthouse
+- [lighthouse](https://developers.google.com/web/tools/lighthouse) wa sused to test the MKG North Dublin site for performance, accessibility, Best Practices and SEO.
+
+- 
