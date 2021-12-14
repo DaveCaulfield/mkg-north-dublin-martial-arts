@@ -107,5 +107,12 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
   [Back to top](#mkg-north-dublin) 
 
+## Our Story 
 
+   - Our Story section provides an image of the club logo with a brief history of the club and its connection with a global martial arts organisation.
+   - The red, black and white of the logo provide continutity and flow through the website sections. 
+
+  <img src="docs/readme-images/our-story.png" alt="screen shot mkg north dublin our story section" />
+
+  [Back to top](#mkg-north-dublin)  
 
