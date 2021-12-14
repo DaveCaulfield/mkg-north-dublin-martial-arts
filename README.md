@@ -197,3 +197,16 @@ The MKG North Dublin website is designed to provide clear information and intuit
 Please see [testing](testing.md) page for details of MKG North Dublin website testing. 
 
  [Back to top](#mkg-north-dublin) 
+
+
+ # Deployment
+ - The site was deployed to GitHub pages. The steps to deploy are as follows:
+
+
+
+
+ # Credits
+
+
+
+ # Acknowledgements
