@@ -28,3 +28,11 @@ The wireframes for MKG North Dublin website were produced using Balsamiq. There 
 <img src="docs/wireframe/wireframe-mobile-6.png" width="350" height="650" alt="wireframe for mobile" />
 <img src="docs/wireframe/wireframe-mobile-7.png" width="350" height="650" alt="wireframe for mobile" />
 <img src="docs/wireframe/wireframe-mobile-8.png" width="350" height="650" alt="wireframe for mobile" />
+
+
+<img src="docs/wireframe/wireframe-desktop-1.png" width="900" height="1000" alt="wireframe for desktop" />
+<img src="docs/wireframe/wireframe-desktop-2.png" width="900" height="1000" alt="wireframe for desktop" />
+<img src="docs/wireframe/wireframe-desktop-3.png" width="900" height="1000" alt="wireframe for desktop" />
+<img src="docs/wireframe/wireframe-desktop-4.png" width="900" height="1000" alt="wireframe for desktop" />
+
+[Back to top](#mkg-north-dublin)
