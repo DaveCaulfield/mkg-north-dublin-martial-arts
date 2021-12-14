@@ -59,3 +59,8 @@ Black gives a premium feel to the club website. Subtle use of white, red and yel
 
 
 [Back to top](#mkg-north-dublin)
+
+# Features
+
+The MKG North Dublin website is designed to provide clear information and intuitive navigation for the user. The theme is minimlaist but inviting and encouraging for the user.
+
