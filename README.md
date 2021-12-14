@@ -94,5 +94,9 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 [Back to top](#mkg-north-dublin)
 
+## About page
+
+   - The about pages provides information to the user about the coaches, the club, the different arts taught at the club, and the benefits of martial arts practice.
+
 
 
