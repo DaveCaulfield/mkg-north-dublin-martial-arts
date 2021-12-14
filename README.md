@@ -159,3 +159,12 @@ The MKG North Dublin website is designed to provide clear information and intuit
    <img src="docs/readme-images/free-class-form.png" alt="screen shot mkg north dublin free class form" />
 
   [Back to top](#mkg-north-dublin) 
+
+  ## Jeet Kune Do Video
+   - The video content demonstrating some training in Jeet Kune Do and the quote are re-assuring to the user and helps encourage the user to try out a class. 
+   - The video does not play automatically and is controlled by the user.
+
+<img src="docs/readme-images/jkd-video.png" alt="screen shot mkg north dublin jkd video" />
+
+  [Back to top](#mkg-north-dublin) 
+
