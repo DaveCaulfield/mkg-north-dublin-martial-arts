@@ -69,3 +69,5 @@ HTML vaildator results:
 
 ## Peer review
 The site was peer reviewed by the Code Institute slack community. This highlighted that the scroll to top feature was not intuitive to the user. The feature was updated to be more intuitive to the user.
+
+Back to [README.md](README.md)
