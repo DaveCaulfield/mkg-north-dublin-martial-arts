@@ -40,3 +40,8 @@ HTML vaildator results:
 
 - Different browsers were used to test the MKG North Dublin website. The site was found to work accross Google Chrome, Safari, Microsoft Edge and Mozilla Firefox web browsers. One issue identified by testing accross different browsers was Safari ios not renderering the right arrow icon in the class timetable - see Known bugs section for details.  
 
+
+# Known Bugs
+- During browser testing Safari ios on iphone did not render the icons in the time table correctly.
+
+![screen shot of timetable bug](/docs/readme-images/timetable-bug.png)
