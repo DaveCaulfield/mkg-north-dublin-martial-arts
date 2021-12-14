@@ -73,4 +73,13 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 [Back to top](#mkg-north-dublin)
 
+## The landing page
+   - The landing page displays an image map of the world with a club tag line and quote. This combines to let the the user know that MKG Noth Dublin is a martial arts club that is part of a wider global martial arts organisation and conveys a welcoming club ethos.
+
+
+<img src="docs/readme-images/landing-page.png" alt="mkg north dublin landing page" />
+
+
+[Back to top](#mkg-north-dublin)
+
 
