@@ -353,7 +353,7 @@ html {
 
 .accordion-timetable .day-h3 label:before {
   font-family: hind;
-  content: "\25B6\fe0e";
+  content: "\25B6";
   display: inline-block;
   margin-right: 10px;
   font-size: .58em;
@@ -362,7 +362,7 @@ html {
 }
 
 .accordion-timetable>input[type="checkbox"]:checked~.day-h3 label:before {
-  content: "\262F\fe0e";
+  content: "\262F";
 }
 
 .accordion-timetable {
