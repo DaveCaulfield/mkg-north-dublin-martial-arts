@@ -36,7 +36,7 @@ HTML vaildator results:
 - Responsivness was tested using [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive design checker](https://responsivedesignchecker.com/). 
     - The site was found to be responsive for small, medium and large screens.
 
-## Browser Compatibility
+## Browser Compatability
 
-- Different browsers were used to test the MKG North Dublin website. The site was found to work accross Google Chrome, Safari, Microsoft Edge and Mozilla Firefox web browsers. 
+- Different browsers were used to test the MKG North Dublin website. The site was found to work accross Google Chrome, Safari, Microsoft Edge and Mozilla Firefox web browsers. One issue identified by testing accross different browsers was Safari ios not renderering the right arrow icon in the class timetable - see Known bugs section for details.  
 
