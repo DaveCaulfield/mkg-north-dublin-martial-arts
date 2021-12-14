@@ -125,3 +125,13 @@ The MKG North Dublin website is designed to provide clear information and intuit
   [Back to top](#mkg-north-dublin)  
   
 
+## Benefits section
+   - A Benefits of Martial Arts section outlines some of the benefits of training martial arts to the user. 
+   - The benefits listed are weighted more toward the mental benefits as they may be less well known to the user. It also gives a less intimating feel to the user.
+   - An embedded TedX talk eplains in a more detailed and engagingw way what the Filipino martial art Kali is and the cognitive benfits of it. 
+   - The TedX content and branding match the website and re-inforces the benefits of Kali. It also promotes the art to the user as it not a widely known martial art. 
+   - The video does not play automatically and is controlled by the user.
+
+<img src="docs/readme-images/benefits.png" alt="screen shot mkg north dublin benefits section" />
+
+  [Back to top](#mkg-north-dublin)  
