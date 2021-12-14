@@ -181,7 +181,6 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 
 
-
 # Technologies Used
 
   - [HTML](https://html.spec.whatwg.org/) was used to structure the website.
@@ -190,3 +189,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
   - [Gitpod](https://www.gitpod.io/#get-started) was used to create and edit the website files.
   - [Github](https://github.com/) was used to host and deploy the website.
 
+
+# Testing
+
+Please see [testing](testing.md) page for the details of MKG North Dublin website testing. 
