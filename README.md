@@ -135,3 +135,12 @@ The MKG North Dublin website is designed to provide clear information and intuit
 <img src="docs/readme-images/benefits.png" alt="screen shot mkg north dublin benefits section" />
 
   [Back to top](#mkg-north-dublin)  
+
+
+  ## Classes page
+   - The Classes page lets the user know that classes are suitable for beginners.
+   - It give the location of the club and classes.
+   - An interactive timetable lets the user find out class times.
+   - A description of the different class age groups is provided.
+   - A form to request a free class is highlighted and has a call to action button.
+   - A video demonstrating some training in Jeet Kune Do with a re-assuring quote helps encourage the user to try out a class.
