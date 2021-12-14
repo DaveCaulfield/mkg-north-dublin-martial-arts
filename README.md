@@ -83,3 +83,16 @@ The MKG North Dublin website is designed to provide clear information and intuit
 [Back to top](#mkg-north-dublin)
 
 
+## Footer
+   - The footer contains contact details and links to social media sites.
+   - The phone and email details are fully responsive allowing the user to click to connect with the club.
+   - The social media icons are fully responsive and open in a new tab. The club is very active on social media which allows the user to learn more about the club.
+   - A scroll to top feature was added using the club logo in the footer. This allows for easier navigation of the site. 
+
+
+<img src="docs/readme-images/footer.png" alt="mkg north dublin footer" />
+
+[Back to top](#mkg-north-dublin)
+
+
+
