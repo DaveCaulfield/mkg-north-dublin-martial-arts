@@ -151,3 +151,11 @@ The MKG North Dublin website is designed to provide clear information and intuit
    <img src="docs/readme-images/classes.png" alt="screen shot mkg north dublin timetable section" />
 
   [Back to top](#mkg-north-dublin) 
+
+  ## Free Class Form
+   - A free class form encourages the user to try a frre class. The form stands out on the page and has a call to action submit button.
+   - The form has three input fields - first name, last name, and enail. All fields are required to allow the form to be submitted.
+
+   <img src="docs/readme-images/free-class-form.png" alt="screen shot mkg north dublin free class form" />
+
+  [Back to top](#mkg-north-dublin) 
