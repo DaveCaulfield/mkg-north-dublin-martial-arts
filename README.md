@@ -18,3 +18,13 @@ Welcome to [MKG North Dublin](https://davecaulfield.github.io/mkg-north-dublin-m
 
 ## Wireframes
 The wireframes for MKG North Dublin website were produced using Balsamiq. There are frames for a desktop display and a mobile display. There are some differences between the original wireframes and the deployed site.
+
+
+<img src="docs/wireframe/wireframe-mobile-1.png" width="350" height="650" alt="wireframe for mobile" />
+<img src="docs/wireframe/wireframe-mobile-2.png" width="350" height="650" alt="wireframe for mobile" />
+<img src="docs/wireframe/wireframe-mobile-3.png" width="350" height="650" alt="wireframe for mobile" />
+<img src="docs/wireframe/wireframe-mobile-4.png" width="350" height="650" alt="wireframe for mobile" />
+<img src="docs/wireframe/wireframe-mobile-5.png" width="350" height="650" alt="wireframe for mobile" />
+<img src="docs/wireframe/wireframe-mobile-6.png" width="350" height="650" alt="wireframe for mobile" />
+<img src="docs/wireframe/wireframe-mobile-7.png" width="350" height="650" alt="wireframe for mobile" />
+<img src="docs/wireframe/wireframe-mobile-8.png" width="350" height="650" alt="wireframe for mobile" />
