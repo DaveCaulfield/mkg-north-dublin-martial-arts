@@ -57,6 +57,12 @@ HTML vaildator results:
 # Additional Testing
 
 ## Lighthouse
-- [lighthouse](https://developers.google.com/web/tools/lighthouse) wa sused to test the MKG North Dublin site for performance, accessibility, Best Practices and SEO.
+- [lighthouse](https://developers.google.com/web/tools/lighthouse) was used to test the MKG North Dublin site for performance, accessibility, Best Practices and SEO.
 
-- 
+- Performance - How fast it takes a webpage to load.
+- Accessibility - How accessible a website is (users might need a screen reader).
+- Best Practices - How the site conforms to coding best practices.
+- SEO - Search engine optimisation. How optimised the site is for search engine results.
+
+
+![Lighthouse screen shot](/docs/readme-images/lighthouse.png)
