@@ -57,7 +57,7 @@ HTML vaildator results:
 # Additional Testing
 
 ## Lighthouse
-- [lighthouse](https://developers.google.com/web/tools/lighthouse) was used to test the MKG North Dublin site for performance, accessibility, Best Practices and SEO.
+- [lighthouse](https://developers.google.com/web/tools/lighthouse) was used to test the MKG North Dublin site for performance, accessibility, best bractices and SEO.
 
 - Performance - How fast it takes a webpage to load.
 - Accessibility - How accessible a website is (users might need a screen reader).
@@ -66,3 +66,6 @@ HTML vaildator results:
 
 
 ![Lighthouse screen shot](/docs/readme-images/lighthouse.png)
+
+## Peer review
+The site was peer reviewed by the Code Institute slack community. This highlighted that the scroll to top feature was not intuitive to the user. The feature was updated to be more intuitive to the user.
