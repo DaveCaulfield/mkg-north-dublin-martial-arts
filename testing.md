@@ -1,9 +1,9 @@
 # Testing
 
 ## Code Vaildation
-The code for MKG North Dublin website has been tested using [W3C HTML Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) . There were some minor fixes required after testing. There was a space in the  telephome number between country code and maobile number. This was corrected and all html and CSS files passed validation checks.
+The code for MKG North Dublin website has been tested using [W3C HTML Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) . There were some minor fixes required after testing, a space in the telephome number between country code and mobile number. This was corrected and all html and CSS files passed validation checks.
 
-HTML vaildataion results:
+HTML vaildator results:
 
 - Home page 
 
@@ -24,3 +24,8 @@ HTML vaildataion results:
  - Thank you page
 
  ![HTML Thank you page vaildataion](/docs/readme-images/html-validator.png)
+
+
+ CSS Vaildator results:
+
+ ![CSS Vaildator results](/docs/readme-images/css-validator.png)
