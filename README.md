@@ -180,3 +180,13 @@ The MKG North Dublin website is designed to provide clear information and intuit
   [Back to top](#mkg-north-dublin) 
 
 
+
+
+# Technologies Used
+
+  - [HTML](https://html.spec.whatwg.org/) was used to structure the website.
+  - [CSS](https://www.w3.org/Style/CSS/Overview.en.html) was used to style the website.
+  - [Balsamiq](https://balsamiq.com/wireframes/) was used to create the wireframe designs.
+  - [Gitpod](https://www.gitpod.io/#get-started) was used to create and edit the website files.
+  - [Github](https://github.com/) was used to host and deploy the website.
+
