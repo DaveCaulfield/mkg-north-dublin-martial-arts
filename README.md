@@ -71,7 +71,8 @@ The MKG North Dublin website is designed to provide clear information and intuit
 ## Navigation Menu
    - The navigation menu sits at the top of all pages on the website. It contains inter-active links to all pages guiding the user easily throughout the website.
 
-<img src="./docs/readme-images/navbar.png" alt="mkg north dublin nav bar" />
+   ![mkg north dublin nav bar](/docs/readme-images/navbar.png)
+
 
 [Back to top](#mkg-north-dublin)
 
@@ -79,7 +80,8 @@ The MKG North Dublin website is designed to provide clear information and intuit
    - The landing page displays an image map of the world with a club tag line and quote. This combines to let the the user know that MKG Noth Dublin is a martial arts club that is part of a wider global martial arts organisation and conveys a welcoming club ethos to the user.
 
 
-<img src="docs/readme-images/landing-page.png" alt="mkg north dublin landing page" />
+![mkg north dublin landing page](docs/readme-images/landing-page.png)
+
 
 
 [Back to top](#mkg-north-dublin)
@@ -91,8 +93,9 @@ The MKG North Dublin website is designed to provide clear information and intuit
    - The social media icons are inter-active and open in a new tab. The club is very active on social media which allows the user to learn more about the club.
    - A scroll to top feature was added using the club logo in the footer. This allows for easier navigation of the site for the user. 
 
+![mkg north dublin footer](docs/readme-images/footer.png)
 
-<img src="docs/readme-images/footer.png" alt="mkg north dublin footer" />
+
 
 [Back to top](#mkg-north-dublin)
 
@@ -105,24 +108,29 @@ The MKG North Dublin website is designed to provide clear information and intuit
    - The coaches smiling in the photo re-assures the user and helps the user connect with the coaches. It conveys a welcoming message of fun to the user.
    - The red, black and white of the instructor photo also connects the websites color scheme with the coaches. 
 
-<img src="docs/readme-images/our-coaches.png" alt="image mkg north dublin coaches" />
+   ![image mkg north dublin coaches](docs/readme-images/our-coaches.png)
+
+
 
   [Back to top](#mkg-north-dublin) 
 
 ## Our Story 
 
-   - Our Story section provides an image of the club logo with a brief history of the club and its connection with a global martial arts organisation.
+   - Our Story section provides an image of the club logo and gives a brief history of the club and its connection with a global martial arts organisation to the user. This re-assures the user the club has a history and is growing.
    - The red, black and white of the logo provide continutity and flow through the website sections. 
 
-  <img src="docs/readme-images/our-story.png" alt="screen shot mkg north dublin our story section" />
+   ![screen shot mkg north dublin our story section](docs/readme-images/our-story.png)
+
+  
 
   [Back to top](#mkg-north-dublin)  
 
   ##  Description of arts
 
    - A description is given of the three main type of martial arts available at the club. This gives the user a clear understanding of what arts the club teaches.
+
+   ![screen shot mkg north dublin arts section](docs/readme-images/three-arts.png)
    
-   <img src="docs/readme-images/three-arts.png" alt="screen shot mkg north dublin arts section" />
 
   [Back to top](#mkg-north-dublin)  
   
@@ -134,7 +142,8 @@ The MKG North Dublin website is designed to provide clear information and intuit
    - The TedX content and colour scheme match the website and re-inforces the benefits of Kali. It also promotes the art to the user as it not a widely known martial art. 
    - The video does not play automatically and is controlled by the user.
 
-<img src="docs/readme-images/benefits.png" alt="screen shot mkg north dublin benefits section" />
+   ![screen shot mkg north dublin benefits section](docs/readme-images/benefits.png)
+
 
   [Back to top](#mkg-north-dublin)  
 
@@ -150,7 +159,9 @@ The MKG North Dublin website is designed to provide clear information and intuit
    ## Class Timetable 
    - The class timetable provides an interactive drop down feature that allows easy navigation for the user on both mobile and desktop.
 
-   <img src="docs/readme-images/classes.png" alt="screen shot mkg north dublin timetable section" />
+   ![screen shot mkg north dublin timetable section](docs/readme-images/classes.png)
+
+   
 
   [Back to top](#mkg-north-dublin) 
 
@@ -158,7 +169,8 @@ The MKG North Dublin website is designed to provide clear information and intuit
    - A free class form encourages the user to try a frre class. The form stands out on the page and has a call to action submit button.
    - The form has three input fields - first name, last name, and email. All fields are required to allow the form to be submitted.
 
-   <img src="docs/readme-images/free-class-form.png" alt="screen shot mkg north dublin free class form" />
+   ![screen shot mkg north dublin free class form](docs/readme-images/free-class-form.png)
+
 
   [Back to top](#mkg-north-dublin) 
 
@@ -166,7 +178,9 @@ The MKG North Dublin website is designed to provide clear information and intuit
    - The video content demonstrating some training in Jeet Kune Do and the quote are re-assuring to the user and helps motivate and encourage the user to try out a class. 
    - The video does not play automatically and is controlled by the user.
 
-<img src="docs/readme-images/jkd-video.png" alt="screen shot mkg north dublin jkd video" />
+   ![screen shot mkg north dublin jkd video](docs/readme-images/jkd-video.png)
+
+
 
   [Back to top](#mkg-north-dublin) 
 
@@ -177,7 +191,9 @@ The MKG North Dublin website is designed to provide clear information and intuit
    - The familar navigation menu and footer are in place on the thank you page.
    - The thank you page feature allows the website to be used in its current state by MKG North Dublin Ltd without having to wait for a form post function or back end to be added.
 
-   <img src="docs/readme-images/thankyou-page.png" alt="screen shot of mkg north dublin thank you page" />
+   ![screen shot of mkg north dublin thank you page](docs/readme-images/thankyou-page.png)
+
+   
 
   [Back to top](#mkg-north-dublin) 
 
