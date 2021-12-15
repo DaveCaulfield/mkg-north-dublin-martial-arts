@@ -34,14 +34,19 @@ HTML vaildator results:
 
  ## Responsiveness Testing
 - Responsivness was tested using [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive design checker](https://responsivedesignchecker.com/). 
-    - The site was found to be responsive for small, medium and large screens.
+    - Media queries were added to ensure responsiveness for smalll screens. 
+    - After adding media queries the site was found to be responsive for small, medium and large screens.
 
 ## Browser Compatability
 
-- Different browsers were used to test the MKG North Dublin website. The site was found to work accross Google Chrome, Safari, Microsoft Edge and Mozilla Firefox web browsers. One issue identified by testing accross different browsers was Safari ios not renderering the right arrow icon in the class timetable - see Known bugs section for details.  
+- The site was tested Google Chrome, Safari, Microsoft Edge and Mozilla Firefox web browsers. 
+- issues were detected on Safari ios and Mozilla Firefox - see Known bugs section for details. 
+- After issues were fixed the site was found to work on all browsers. 
 
 
 # Known Bugs
+
+## Fixed bugs
 - During browser testing, Safari ios mobile did not render the icons in the timetable correctly.
 
 
@@ -52,6 +57,11 @@ HTML vaildator results:
 
 
 <img src="docs/readme-images/timetable-fix.png" width="300" height="650" alt="screen shot of timetable fix"/>
+
+
+- During browser testing, Mozilla Firefox displayed "Submit Query" on the free claas submit button. All other browsers displayed "Submit".
+
+
 
 
 # Additional Testing
