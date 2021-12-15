@@ -39,7 +39,7 @@ nav {
 }
 
 nav li {
-
+flex: auto;
   list-style-type: none;
   margin-right: 30px;
   margin-top: 10px;
@@ -84,7 +84,6 @@ nav a:hover {
   font-size: 1.5rem;
   text-align: center;
   margin-top: 10px;
-
   letter-spacing: 3px;
 }
 
