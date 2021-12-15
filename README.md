@@ -233,14 +233,14 @@ A fork is a copy of a repository. Forking a repository allows you to freely expe
 
 ## To clone the repository
 
-cloning the repository creates a local copy on your computer.
+Cloning the repository creates a local copy on your computer.
 
 1. In the Github repository select the **code** tab.
 2. In the **clone https** section select the clipboard icon.
 
 ![screen shot of github clone](docs/readme-images/github-clone.png)
 
-3. Open **Git Bash** terminaal in your IDE.
+3. Open **Git Bash** terminal in your IDE.
 4. Go to or create a directory for the cloned repository.
 5. Enter command **git clone** and paste the URL copied from GitHub.
 6. Press **enter** and the local clone will be created.
@@ -255,7 +255,7 @@ cloning the repository creates a local copy on your computer.
  - The wireframes were created using [Balsamiq](https://balsamiq.com/wireframes/)
  - The font came from [GoogleFonts](https://fonts.google.com/)
  - The icons came from [Font Awesome](https://fontawesome.com/)
- - The code to structure the timetable came from [Codepen](https://codepen.io/)
+ - The code structure for the timetable came from [Codepen](https://codepen.io/)
  - The idea for the landing page zoom and gallery came from [CI Love Running project](https://codeinstitute.net/ie/)
 
  ## Media
