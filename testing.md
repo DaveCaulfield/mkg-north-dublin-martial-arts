@@ -50,7 +50,7 @@ HTML vaildator results:
 - During browser testing, Safari ios mobile did not render the icons in the timetable correctly.
 
 
-<img src="docs/readme-images/timetable-bug.png" width="300" height="650" alt="screen shot of timetable bug"/>>
+<img src="docs/readme-images/timetable-bug.png" width="300" height="650" alt="screen shot of timetable bug"/>
 
 
 - A fix was found on Stackoverflow. A variation selector of \fe0e was added with the css entity to specify it as text not as (default) emoji. Implementing the variation selector resolved the issue.
@@ -59,8 +59,17 @@ HTML vaildator results:
 <img src="docs/readme-images/timetable-fix.png" width="300" height="650" alt="screen shot of timetable fix"/>
 
 
+
+
+
 - During browser testing, Mozilla Firefox displayed "Submit Query" on the free claas submit button. All other browsers displayed "Submit".
 
+
+<img src="docs/readme-images/firefox-submit-query.png" width="500" height="300" alt="screen shot of timetable bug"/>
+
+- A value had been omitted for the submit input. When value="submit" was added the submit button feature rendered correctly.
+
+<img src="docs/readme-images/firefox-submit-fix.png" width="500" height="300" alt="screen shot of timetable bug"/>
 
 
 
