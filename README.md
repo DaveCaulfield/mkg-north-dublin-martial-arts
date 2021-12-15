@@ -211,7 +211,7 @@ Please see [testing](testing.md) page for details of MKG North Dublin website te
 
  4. Once you select save the page will refresh and a link to the published site will be displayed.
 
- ![screen shot of MKG gitpages link](docs/readme-images/gitpages-link.png)
+ ![screen shot of MKG gitpages link](docs/readme-images/published-link.png)
 
 
 Live link to the published site -
