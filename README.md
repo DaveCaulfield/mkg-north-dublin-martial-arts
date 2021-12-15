@@ -202,7 +202,7 @@ Please see [testing](testing.md) page for details of MKG North Dublin website te
  # Deployment
  - The site was deployed to GitHub pages. The steps to deploy are as follows:
 
- 1. In the GitHub repository select the **Settings** tab.
+ 1. In the Github repository select the **Settings** tab.
  2. Select the **pages** tab on the left of screen.
  3. In the **source** section select the branch drop down and set to **main**, then click **save**.
 
@@ -216,6 +216,32 @@ Please see [testing](testing.md) page for details of MKG North Dublin website te
 
 Live link to the published site -
 [https://davecaulfield.github.io/mkg-north-dublin-martial-arts/](https://davecaulfield.github.io/mkg-north-dublin-martial-arts/)
+
+
+## To fork the repository on Github
+
+A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
+
+1. In the Github repository select the **fork** button on the top right of screen. This will create a copy of the original repository to your github account.
+
+![screen shot of github fork](docs/readme-images/github-fork.png)
+
+
+## To clone the repository
+
+cloning the repository creates a local copy on your computer.
+
+1. In the Github repository select the **code** tab.
+2. In the **clone https** section select the clipboard icon.
+
+![screen shot of github clone](docs/readme-images/github-clone.png)
+
+3. Open **Git Bash** terminaal in your IDE.
+4. Go to or create a directory for the cloned repository.
+5. Enter command **git clone** and paste the URL copied from GitHub.
+6. Press **enter** and the local clone will be created.
+
+ [Back to top](#mkg-north-dublin) 
 
 
 
