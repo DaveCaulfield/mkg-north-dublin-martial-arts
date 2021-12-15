@@ -202,6 +202,13 @@ Please see [testing](testing.md) page for details of MKG North Dublin website te
  # Deployment
  - The site was deployed to GitHub pages. The steps to deploy are as follows:
 
+ 1. In the GitHub repository select the **Settings** tab.
+ 2. Select the **pages** tab on the left of screen.
+ 3. In the **source** section select the branch drop down and set to **main**
+
+
+ ![screen shot of github deployment](docs/readme-images/deployment.png)
+
 
 
 
