@@ -9,9 +9,10 @@ Welcome to [MKG North Dublin](https://davecaulfield.github.io/mkg-north-dublin-m
 # User Experience (UX)
 
 ## User Stories
-* As a user I want to be able to navigate through the whole site smoothly.
+
 * As a user I want to understand the purpose of the site upon loading it.
-* As a user I want to easily be able to contact MKG North Dublin for more information.
+* As a user I want to be able to navigate the site smoothly and intuitively.
+* As a user I want to easily be able to make contact MKG North Dublin.
 * As a user I want to know more about MKG North Dublin.
 * As a user I want to know what classes are available at MKG North Dublin.
 * As a user I want to connect with MKG North Dublin on social media.
