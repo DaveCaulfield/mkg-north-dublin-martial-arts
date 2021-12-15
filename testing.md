@@ -65,11 +65,13 @@ HTML vaildator results:
 - During browser testing, Mozilla Firefox displayed "Submit Query" on the free claas submit button. All other browsers displayed "Submit".
 
 
-<img src="docs/readme-images/firefox-submit-query.png" width="500" height="300" alt="screen shot of timetable bug"/>
+![screen shot of timetable bug](docs/readme-images/firefox-submit-query.png)
+
 
 - A value had been omitted for the submit input. When value="submit" was added the submit button feature rendered correctly.
 
-<img src="docs/readme-images/firefox-submit-fix.png" width="500" height="300" alt="screen shot of timetable bug"/>
+![screen shot of timetable fix](docs/readme-images/firefox-submit-fix.png)
+
 
 ## unresolved
 - The free class form displays as a valid form for the user but there is no post function. This is outside the scope of the project and will be re-visted in further releases for MKG North Dublin.
