@@ -33,8 +33,8 @@ nav {
   display: -webkit-box;
   -webkit-box-pack: end;
   display:-webkit-flexbox;
-  display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
-  
+  display:-webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+  -webkit-box-direction:reverse ;
 }
 
 nav li {
