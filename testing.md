@@ -49,15 +49,16 @@ HTML vaildator results:
 ## Resolved
 - During browser testing, Safari ios mobile did not render the icons in the timetable correctly.
 
+![screen shot of timetable bug](docs/readme-images/timetable-bug-new.png)
 
-<img src="docs/readme-images/timetable-bug.png" width="300" height="650" alt="screen shot of timetable bug"/>
+
+
 
 
 - A fix was found on Stackoverflow. A variation selector of \fe0e was added with the css entity to specify it as text not as (default) emoji. Implementing the variation selector resolved the issue.
 
 
-<img src="docs/readme-images/timetable-fix.png" width="300" height="650" alt="screen shot of timetable fix"/>
-
+![screen shot of timetable fix](docs/readme-images/timetable-fix-new.png)
 
 
 
