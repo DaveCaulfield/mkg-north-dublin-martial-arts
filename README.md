@@ -247,6 +247,22 @@ cloning the repository creates a local copy on your computer.
 
  # Credits
 
+ ## Content
+ - The wireframes were created using [Balsamiq](https://balsamiq.com/wireframes/)
+ - The font came from [GoogleFonts](https://fonts.google.com/)
+ - The icons came from [Font Awesome](https://fontawesome.com/)
+ - The code to structure the timetable came from [Codepen](https://codepen.io/)
+ - The idea for the landing page zoom and gallery came from [CI Love Running project](https://codeinstitute.net/ie/)
+
+ ## Media
+ - The MKG logos and photos came from [MKG North Dublin](https://www.facebook.com/mkgnorthdublin/)
+ - The landing page image came from [Freeimages](https://www.freeimages.com/)
+ - The embedded videos came from [YouTube](https://www.youtube.com/)
+ - The photos and images were compressed using [Compressor](https://compressor.io/) and [Tinypng](https://tinypng.com/)
+
 
 
  # Acknowledgements
+
+ The MKG North Dublin website was built as my Portfolio 1 Project for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/ie/). 
+
