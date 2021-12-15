@@ -29,12 +29,13 @@ nav {
 
 #nav-ul-list {
   display: flex;
+  justify-content: end;
+  flex-wrap: wrap;
   display:-webkit-flexbox;
   display: -webkit-box;   /* OLD - iOS 6-, Safari 3.1-6, BB7 */
   display: -ms-flexbox;  /* TWEENER - IE 10 */
   display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
-  justify-content: end;
-  -webkit-justify-content: end;
+  justify-content: end; 
 }
 
 nav li {
