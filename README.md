@@ -67,14 +67,14 @@ The MKG North Dublin website is designed to provide clear information and intuit
 # Existing Features
 
 ## Navigation Menu
-   - The navigation menu sits at the top of all pages on the website. It contains responsive links to all pages guiding the user easily throughout the website.
+   - The navigation menu sits at the top of all pages on the website. It contains inter-active links to all pages guiding the user easily throughout the website.
 
 <img src="./docs/readme-images/navbar.png" alt="mkg north dublin nav bar" />
 
 [Back to top](#mkg-north-dublin)
 
 ## The landing page
-   - The landing page displays an image map of the world with a club tag line and quote. This combines to let the the user know that MKG Noth Dublin is a martial arts club that is part of a wider global martial arts organisation and conveys a welcoming club ethos.
+   - The landing page displays an image map of the world with a club tag line and quote. This combines to let the the user know that MKG Noth Dublin is a martial arts club that is part of a wider global martial arts organisation and conveys a welcoming club ethos to the user.
 
 
 <img src="docs/readme-images/landing-page.png" alt="mkg north dublin landing page" />
@@ -85,9 +85,9 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 ## Footer
    - The footer contains contact details and links to social media sites.
-   - The phone and email details are fully responsive allowing the user to click to connect with the club.
-   - The social media icons are fully responsive and open in a new tab. The club is very active on social media which allows the user to learn more about the club.
-   - A scroll to top feature was added using the club logo in the footer. This allows for easier navigation of the site. 
+   - The phone and email details are inter-active allowing the user to click to connect with the club.
+   - The social media icons are inter-active and open in a new tab. The club is very active on social media which allows the user to learn more about the club.
+   - A scroll to top feature was added using the club logo in the footer. This allows for easier navigation of the site for the user. 
 
 
 <img src="docs/readme-images/footer.png" alt="mkg north dublin footer" />
@@ -265,7 +265,7 @@ cloning the repository creates a local copy on your computer.
 
  # Acknowledgements
 
- The MKG North Dublin website was built as my Portfolio 1 Project for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/ie/). I would like to thank my cohort facilitator [Kasia Bogucka] (https://github.com/bezebee), my mentor [Precious Leige](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community and all at the Code institute for the help and support provided to me throughout  this project. I would also like to thank James Devine at MKG North Dublin for the support in creating this website. The MKG Dublin website will be deployed as the live site for the club.
+ The MKG North Dublin website was built as my Portfolio 1 Project for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/ie/). I would like to thank my cohort facilitator [Kasia Bogucka](https://github.com/bezebee), my mentor [Precious Leige](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community and all at the Code institute for the help and support provided to me throughout  this project. I would also like to thank James Devine at MKG North Dublin for the support in creating this website. The MKG Dublin website will be deployed as the live site for the club.
 
  Dave Caulfield 2021
 
