@@ -55,7 +55,7 @@ The fonts used are Lato with a fallback of tahoma for the main heading and hind 
 ###   Colour scheme
 
 The colour scheme is based on the MKG North Dublin martial arts club colours - black, white, red, yellow.
-Black gives a premium feel to the club website. Subtle use of white, red and yellow help to emphasis different parts of the website and its features. The body text was changed from white to silver to add more contrast with the section headings and make the text easier to read.
+Black gives a premium feel to the club website. Subtle use of red, white and yellow help to emphasis different sections and features to the user. The body text was changed from white to silver to add more contrast with the section headings and make the text easier to read.
 
 
 [Back to top](#mkg-north-dublin)
