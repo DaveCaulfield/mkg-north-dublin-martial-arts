@@ -46,7 +46,7 @@ HTML vaildator results:
 
 # Known Bugs
 
-## Fixed bugs
+## Resolved
 - During browser testing, Safari ios mobile did not render the icons in the timetable correctly.
 
 
@@ -71,7 +71,8 @@ HTML vaildator results:
 
 <img src="docs/readme-images/firefox-submit-fix.png" width="500" height="300" alt="screen shot of timetable bug"/>
 
-
+## unresolved
+- The free class form displays as a valid form for the user but there is no post function. This is outside the scope of the project and will be re-visted in further releases for MKG North Dublin.
 
 # Additional Testing
 
