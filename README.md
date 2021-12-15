@@ -204,11 +204,18 @@ Please see [testing](testing.md) page for details of MKG North Dublin website te
 
  1. In the GitHub repository select the **Settings** tab.
  2. Select the **pages** tab on the left of screen.
- 3. In the **source** section select the branch drop down and set to **main**
+ 3. In the **source** section select the branch drop down and set to **main**, then click **save**.
 
 
  ![screen shot of github deployment](docs/readme-images/deployment.png)
 
+ 4. Once you select save the page will refresh and a link to the published site will be displayed.
+
+ ![screen shot of MKG gitpages link](docs/readme-images/gitpages-link.png)
+
+
+Live link to the published site -
+[https://davecaulfield.github.io/mkg-north-dublin-martial-arts/](https://davecaulfield.github.io/mkg-north-dublin-martial-arts/)
 
 
 
