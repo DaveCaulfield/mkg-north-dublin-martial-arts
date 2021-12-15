@@ -29,7 +29,7 @@ nav {
 
 #nav-ul-list {
   display: flex;
-  display:-webkit-flex;
+  display:-webkit-flexbox;
   justify-content: end;
 }
 
@@ -493,8 +493,6 @@ html {
 
 @media screen and (max-width: 600px) {
   #nav-ul-list {
-    display:-webkit-flex;
-    display:flex;
     width: 100%;
     font-size: 1rem;
     margin: 0;
