@@ -96,12 +96,12 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 ## About page
 
-   - The about pages provides information to the user about the coaches, the club, the different arts taught at the club, and the benefits of martial arts practice.
+   - The about pages provides information to the user about the coaches, the club, the different arts, and the benefits of martial arts practice.
 
    ## Our Coaches
    - Our Coaches section provides a photo and background information of the coaches. 
-   - The coaches smiling in the photo re-assures the user and helps the user connect with the coaches. It conveys a message of fun.
-   - The red, black and white of the instructor photo also connects with the website color scheme and overall theme. 
+   - The coaches smiling in the photo re-assures the user and helps the user connect with the coaches. It conveys a welcoming message of fun to the user.
+   - The red, black and white of the instructor photo also connects the websites color scheme with the coaches. 
 
 <img src="docs/readme-images/our-coaches.png" alt="image mkg north dublin coaches" />
 
@@ -118,7 +118,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
   ##  Description of arts
 
-   - A description is given of the three main type of martial arts available at the club. This gives the user a clear understanding to the user of what arts the club teaches.
+   - A description is given of the three main type of martial arts available at the club. This gives the user a clear understanding of what arts the club teaches.
    
    <img src="docs/readme-images/three-arts.png" alt="screen shot mkg north dublin arts section" />
 
@@ -128,8 +128,8 @@ The MKG North Dublin website is designed to provide clear information and intuit
 ## Benefits section
    - A Benefits of Martial Arts section outlines some of the benefits of training martial arts to the user. 
    - The benefits listed are weighted more toward the mental benefits as they may be less well known to the user. It also gives a less intimating feel to the user.
-   - An embedded TedX talk eplains in a more detailed and engagingw way what the Filipino martial art Kali is and the cognitive benfits of it. 
-   - The TedX content and branding match the website and re-inforces the benefits of Kali. It also promotes the art to the user as it not a widely known martial art. 
+   - An embedded TedX talk eplains in a more detailed and engaging way what the Filipino martial art of Kali is and the cognitive benfits of it. 
+   - The TedX content and colour scheme match the website and re-inforces the benefits of Kali. It also promotes the art to the user as it not a widely known martial art. 
    - The video does not play automatically and is controlled by the user.
 
 <img src="docs/readme-images/benefits.png" alt="screen shot mkg north dublin benefits section" />
@@ -146,7 +146,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
    - A video demonstrating some training in Jeet Kune Do with a re-assuring quote helps encourage the user to try out a class.
 
    ## Class Timetable 
-   - The class timetable uses a responsive drop down feature that allows it to work well for the user on both mobile and desktop.
+   - The class timetable provides an interactive drop down feature that allows easy navigation for the user on both mobile and desktop.
 
    <img src="docs/readme-images/classes.png" alt="screen shot mkg north dublin timetable section" />
 
@@ -154,14 +154,14 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
   ## Free Class Form
    - A free class form encourages the user to try a frre class. The form stands out on the page and has a call to action submit button.
-   - The form has three input fields - first name, last name, and enail. All fields are required to allow the form to be submitted.
+   - The form has three input fields - first name, last name, and email. All fields are required to allow the form to be submitted.
 
    <img src="docs/readme-images/free-class-form.png" alt="screen shot mkg north dublin free class form" />
 
   [Back to top](#mkg-north-dublin) 
 
   ## Jeet Kune Do Video
-   - The video content demonstrating some training in Jeet Kune Do and the quote are re-assuring to the user and helps encourage the user to try out a class. 
+   - The video content demonstrating some training in Jeet Kune Do and the quote are re-assuring to the user and helps motivate and encourage the user to try out a class. 
    - The video does not play automatically and is controlled by the user.
 
 <img src="docs/readme-images/jkd-video.png" alt="screen shot mkg north dublin jkd video" />
@@ -171,13 +171,17 @@ The MKG North Dublin website is designed to provide clear information and intuit
   ## Free class - Thank You Page
    - A Thank you page greets the user when they submit the free class form.
    - This is used as there is no post function in the website.
-   - The Thank you page explains to the user that their free class is waiting for them but the application form did not go through. It informs the user to email the club to arrange their free class. The thank you messaage is signed off by the head coach.
+   - The Thank you page explains to the user that their free class is waiting for them but the application form did not go through. It informs the user to email the club to arrange their free class. The thank you messaage is signed by the head coach.
    - The familar navigation menu and footer are in place on the thank you page.
-   - The thank you page feature allows the website to be used as is by MKG North Dublin Ltd without having to wait for a form post function or back end to be added.
+   - The thank you page feature allows the website to be used in its current state by MKG North Dublin Ltd without having to wait for a form post function or back end to be added.
 
    <img src="docs/readme-images/thankyou-page.png" alt="screen shot of mkg north dublin thank you page" />
 
   [Back to top](#mkg-north-dublin) 
+
+  # Future Features
+  - A shop section using an e-commerce platform to allow the club to handle orders received for equipment.
+  - A members area to allow students access the clubs online instructional videos.
 
 
 
