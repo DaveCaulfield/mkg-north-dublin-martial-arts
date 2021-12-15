@@ -260,9 +260,13 @@ cloning the repository creates a local copy on your computer.
  - The embedded videos came from [YouTube](https://www.youtube.com/)
  - The photos and images were compressed using [Compressor](https://compressor.io/) and [Tinypng](https://tinypng.com/)
 
+ [Back to top](#mkg-north-dublin) 
 
 
  # Acknowledgements
 
- The MKG North Dublin website was built as my Portfolio 1 Project for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/ie/). 
+ The MKG North Dublin website was built as my Portfolio 1 Project for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/ie/). I would like to thank my cohort facilitator [Kasia Bogucka] (https://github.com/bezebee), my mentor [Precious Leige](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community and all at the Code institute for the help and support provided to me throughout  this project. I would also like to thank James Devine at MKG North Dublin for the support in creating this website. The MKG Dublin website will be deployed as the live site for the club.
 
+ Dave Caulfield 2021
+
+ [Back to top](#mkg-north-dublin) 
