@@ -18,21 +18,24 @@ Welcome to [MKG North Dublin](https://davecaulfield.github.io/mkg-north-dublin-m
 * As a user I want to connect with MKG North Dublin on social media.
 
 ## Wireframes
-The wireframes for MKG North Dublin website were produced using Balsamiq. There are frames for a desktop display and a mobile display. There are some differences between the original wireframes and the deployed site.
+- The wireframes for MKG North Dublin website were produced using Balsamiq. 
+- Wireframes were made for mobile and desktop displays. 
+- There are some differences between the original wireframes and the deployed site.
 
 
-![screen shot mobile wireframe](/docs/readme-images/mobile-home.png)
-![screen shot mobile wireframe](/docs/readme-images/mobile-about.png)
-![screen shot mobile wireframe](/docs/readme-images/mobile-classes.png)
+![screen shot mobile wireframe](/docs/readme-images/mobile-home.jpg)
+![screen shot mobile wireframe](/docs/readme-images/mobile-about.jpg)
+![screen shot mobile wireframe](/docs/readme-images/mobile-classes.jpg)
+
+![screen shot desktop wireframe](/docs/readme-images/wireframe-desktop-1.png)
+![screen shot desktop wireframe](/docs/readme-images/wireframe-desktop-2.png)
+![screen shot desktop wireframe](/docs/readme-images/wireframe-desktop-3.png)
+![screen shot desktop wireframe](/docs/readme-images/wireframe-desktop-4.png)
 
 
 
 
 
-<img src="docs/wireframe/wireframe-desktop-1.png" width="900" height="1000" alt="wireframe for desktop" />
-<img src="docs/wireframe/wireframe-desktop-2.png" width="900" height="1000" alt="wireframe for desktop" />
-<img src="docs/wireframe/wireframe-desktop-3.png" width="900" height="1000" alt="wireframe for desktop" />
-<img src="docs/wireframe/wireframe-desktop-4.png" width="900" height="1000" alt="wireframe for desktop" />
 
 [Back to top](#mkg-north-dublin)
 
