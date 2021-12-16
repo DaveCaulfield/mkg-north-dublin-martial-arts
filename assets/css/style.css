@@ -22,14 +22,12 @@ nav {
 }
 
 #nav-ul-list {
-  display: flex;
-  justify-content: end;
   display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
   -webkit-box-pack: end;
-  display:-webkit-flexbox;
-  display:-webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
-  -webkit-box-direction:reverse ;
-  align-items: flex-end;
+      -ms-flex-pack: end;
+          justify-content: end;
 }
 
 nav li {
