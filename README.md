@@ -88,14 +88,14 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 [Back to top](#mkg-north-dublin)
 
-### About page
+### About us
 
-   - The about pages provides information to the user about the coaches, the club, the different arts, and the benefits of martial arts practice.
+   - The about us section is the first paragraph on the about page and provides the club message to the user that the club is fun and suitable for all ages and abiities.
 
 ### Our Coaches
    - Our Coaches section provides a photo and background information of the coaches. 
    - The coaches smiling in the photo re-assures the user and helps the user connect with the coaches. It conveys a welcoming message of fun to the user.
-   - The red, black and white of the instructor photo also connects the websites color scheme with the coaches. 
+   - The red, black and white of the instructor photo also connects the websites color scheme. 
 
    ![image mkg north dublin coaches](docs/readme-images/our-coaches.png)
 
@@ -105,8 +105,8 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 ### Our Story 
 
-   - Our Story section provides an image of the club logo and gives a brief history of the club and its connection with a global martial arts organisation to the user. This re-assures the user the club has a long history and is also growing.
-   - The red, black and white of the logo provide continutity and flow through the website sections. 
+   - Our Story section provides an image of the club logo and gives a brief history of the club and its links with a global martial arts organisation. This re-assures the user the club has a history, is experienced and is also growing.
+   - The red, black and white of the logo provide continuity and flow through the website sections. 
 
    ![screen shot mkg north dublin our story section](docs/readme-images/our-story.png)
 
@@ -116,7 +116,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 ###  Description of arts
 
-   - A description is given of the three main type of martial arts available at the club. This gives the user a clear understanding of what arts the club teaches.
+   - A description is given of the three main style of martial arts available at the club. This gives the user a clear understanding of what arts the club teaches.
 
    ![screen shot mkg north dublin arts section](docs/readme-images/three-arts.png)
    
@@ -127,7 +127,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 ### Benefits of Martial Arts
    - A Benefits of Martial Arts section outlines some of the benefits of training martial arts to the user. 
    - The benefits listed are weighted more toward the mental benefits as they may be less well known to the user. It also gives a less intimating feel to the user.
-   - An embedded TedX talk eplains in a more detailed and engaging way what the Filipino martial art of Kali is and the cognitive benfits of it. 
+   - An embedded TedX talk explains in a more detailed and engaging way what the Filipino martial art of Kali is and the cognitive benfits of it. 
    - The TedX content and its branding colours match the website and re-inforces the benefits of Kali. It also promotes the art to the user as it not a widely known martial art. 
    - The video does not play automatically and is controlled by the user.
 
@@ -140,7 +140,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 ### Classes page
    - The Classes page lets the user know that classes are suitable for beginners.
    - Location of the club and classes is provided.
-   - An interactive timetable lets the user find out class times.
+   - An interactive timetable lets the user easily find out class times.
    - A description of the different class age groups is provided.
    - A form to request a free class is highlighted and has a call to action button.
    - A video demonstrating some training in Jeet Kune Do with a re-assuring quote helps encourage the user to try out a class.
@@ -187,7 +187,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
   [Back to top](#mkg-north-dublin) 
 
 ## Future Features
-  - A shop section using an e-commerce platform to allow the club to handle orders received for equipment or clothing.
+  - A shop section utilizing an e-commerce platform to allow the club to handle orders received for equipment & clothing.
   - A members area to allow students access the clubs online instructional videos.
 
 
@@ -250,7 +250,7 @@ Cloning the repository creates a local copy on your computer.
 ![screen shot of github clone](docs/readme-images/github-clone.png)
 
 3. Open **Git Bash** terminal in your IDE.
-4. Go to or create a directory for the cloned repository.
+4. Create a directory for the cloned repository.
 5. Enter command **git clone** and paste the URL copied from GitHub.
 6. Press **enter** and the local clone will be created.
 
@@ -265,7 +265,7 @@ Cloning the repository creates a local copy on your computer.
  - The font came from [GoogleFonts](https://fonts.google.com/)
  - The icons came from [Font Awesome](https://fontawesome.com/)
  - The code structure for the timetable came from [Codepen](https://codepen.io/)
- - The idea for the landing page zoom and gallery came from [CI Love Running project](https://codeinstitute.net/ie/)
+ - The idea for the landing page zoom and gallery came from [Code Institute - Love Running project](https://codeinstitute.net/ie/)
 
  ## Media
  - The MKG logos and photos came from [MKG North Dublin](https://www.facebook.com/mkgnorthdublin/)
@@ -278,7 +278,7 @@ Cloning the repository creates a local copy on your computer.
 
  # Acknowledgements
 
- The MKG North Dublin website was built as my Portfolio 1 Project for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/ie/). I would like to thank my cohort facilitator [Kasia Bogucka](https://github.com/bezebee), my mentor [Precious Leige](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community and all at the Code institute for the help and support provided to me throughout  this project. I would also like to thank James Devine at MKG North Dublin for the support in creating this website. The MKG Dublin website will be deployed as the live site for the club.
+ The MKG North Dublin website was built as my Portfolio 1 Project for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/ie/). I would like to thank my cohort facilitator [Kasia Bogucka](https://github.com/bezebee), my mentor [Precious Leige](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community and all at the Code institute for the help and support provided to me throughout  this project. I would also like to thank James Devine at MKG North Dublin for the support in creating this website. The website will be published as the live website for MKG Dublin North Dublin Martial Arts club.
 
  Dave Caulfield 2021
 
