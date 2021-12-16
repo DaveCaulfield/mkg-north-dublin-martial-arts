@@ -8,15 +8,6 @@ Welcome to [MKG North Dublin](https://davecaulfield.github.io/mkg-north-dublin-m
 
 # User Experience (UX)
 
-## User Stories
-
-* As a user I want to understand the purpose of the site upon loading it.
-* As a user I want to be able to navigate the site smoothly and intuitively.
-* As a user I want to easily be able to make contact MKG North Dublin.
-* As a user I want to know more about MKG North Dublin.
-* As a user I want to know what classes are available at MKG North Dublin.
-* As a user I want to connect with MKG North Dublin on social media.
-
 ## Wireframes
 - The wireframes for MKG North Dublin website were produced using Balsamiq. 
 - Wireframes were made for mobile and desktop displays. 
@@ -47,14 +38,12 @@ The MKG North Dublin website has four pages. The [home](index.html) page, [about
 
 ## Design Choices
 
-### Typography
+* ### Typography
 The fonts used are Lato with a fallback of tahoma for the main heading and hind with a fall back of sans-serif for the section headings and body text.
+   *  Lato allows for a less formal and a more welcoming feel to the large bold text used in the main heading on the homepage. 
+   *  Hind is used for section heading and gives a less formal, and a more welcoming feel. Hind is also used in the body text and contrasts with the section headings. Its clear and easily readable for the user. 
 
-- Lato allows for a less formal and a more welcoming feel to the large bold text used in the main heading on the homepage. 
-
--  Hind is used for section heading and gives a less formal, and a more welcoming feel. Hind is also used in the body text and contrasts with the section headings. Its clear and easily readable for the user. 
-
-###   Colour scheme
+* ###   Colour scheme
 
 The colour scheme is based on the MKG North Dublin martial arts club colours - black, white, red, yellow.
 Black gives a premium feel to the club website. Subtle use of red, white and yellow help to emphasis different sections and features to the user. The body text was changed from white to silver to add more contrast with the section headings and make the text easier to read.
@@ -135,7 +124,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
   [Back to top](#mkg-north-dublin)  
   
 
-## Benefits section
+## Benefits of Martial Arts
    - A Benefits of Martial Arts section outlines some of the benefits of training martial arts to the user. 
    - The benefits listed are weighted more toward the mental benefits as they may be less well known to the user. It also gives a less intimating feel to the user.
    - An embedded TedX talk eplains in a more detailed and engaging way what the Filipino martial art of Kali is and the cognitive benfits of it. 
