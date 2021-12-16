@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
   border: none;
+  box-sizing: border-box;
 }
 
 body {
@@ -12,6 +13,8 @@ body {
   color: white;
 }
 
+
+
 /* ....................navigation menu ....................*/
 nav {
   height: 30px;
@@ -19,12 +22,14 @@ nav {
   letter-spacing: 2px;
   padding-bottom: 30px;
   width: 100%;
+  max-width: 100%;
 }
 
 #nav-ul-list {
   display: flex;
-  max-width: 100%;
   justify-content: flex-end;
+  width: 100%;
+  max-width: 100%;
 }
 
 nav li {
