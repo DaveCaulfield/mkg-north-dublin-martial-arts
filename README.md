@@ -66,7 +66,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 [Back to top](#mkg-north-dublin)
 
 ### The landing page
-   - The landing page displays an image map of the world with a club tag line and quote. This combines to let the the user know that MKG Noth Dublin is a martial arts club that is part of a wider global martial arts organisation and conveys a welcoming and positive club ethos to the user.
+   - The landing page displays an image map of the world with a club tag line and quote. This combines to let the the user know that MKG North Dublin is a martial arts club that is part of a wider global martial arts organisation and conveys a welcoming and positive club ethos to the user. The idea and code structure for the zoom effect came from the [Code Institute](https://codeinstitute.net/ie/) Love Running project.
 
 
 ![mkg north dublin landing page](docs/readme-images/landing-page.png)
@@ -147,6 +147,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 ### Class Timetable 
    - The class timetable provides an interactive drop down feature that allows easy navigation for the user on both mobile and desktop.
+   - The code structure for the timetable came from [Codepen](https://codepen.io/). The style and content was customized for the MKG North Dublin site.
 
    ![screen shot mkg north dublin timetable section](docs/readme-images/classes.png)
 
@@ -185,7 +186,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 ### Gallery
 
-   - A gallery page of photos lets the user see more of the club.
+   - A gallery page of photos lets the user see more of the club. The idea and code structure came from the [Code Institute](https://codeinstitute.net/ie/) Love Running project.
 
 ![screen shot of gallery page](docs/readme-images/gallery.png)
 
