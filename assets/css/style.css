@@ -12,13 +12,7 @@ body {
   color: white;
 }
 
-
-
-
-
 /* ....................navigation menu ....................*/
-
-
 nav {
   height: 30px;
   font-size: 1.2rem;
@@ -103,7 +97,6 @@ nav a:hover {
 
 
 /* ........................world map image ...........................*/
-
 #map-outer {
   width: 100%;
   overflow: hidden;
@@ -113,11 +106,11 @@ nav a:hover {
   width: 100%;
 
   /* animates zoom effect on loading page*/
+  /*zoom code structure is from code institute love running project. customized for mkg north dublin site*/
   animation-name: hero-zoom;
   animation-duration: 8s;
   animation-fill-mode: forwards;
 }
-
 
 /* creates zoom for map of world*/
 @keyframes hero-zoom {
@@ -148,7 +141,6 @@ nav a:hover {
 
 
 /* .......................footer section................................*/
-
 
 html {
   scroll-behavior: smooth;
@@ -237,7 +229,7 @@ html {
 
 
 
-/* ++++++++++++++++++++++++++++++++++++++++++++++++++++About page+++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* ++++++++++++++++++++++++++++++++++++++++++++++++++++ABOUT PAGE+++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 
 .flex-container {
   display: flex;
@@ -250,10 +242,7 @@ html {
 .flex-container>h2 {
   font-size: 28px;
   margin-top: 40px;
-
 }
-
-
 
 .flex-container>p {
   flex: auto;
@@ -263,7 +252,6 @@ html {
   margin: 10px;
   max-width: 700px;
   color: silver;
-
 }
 
 .iframe-vid {
@@ -281,7 +269,6 @@ html {
   margin-bottom: 20px;
   margin-top: 20px;
   border-radius: 5px;
-
 }
 
 .mkglogotext {
@@ -293,12 +280,12 @@ html {
 }
 
 
-/*+++++++++++++++++++++++++++++++++++++++++++++Classes Page +++++++++++++++++++++++++++++++++++*/
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++CLASSES PAGE ++++++++++++++++++++++++++++==+++++++++++++++++++++++++++++++++*/
 
+/* timetable code structure is from codepen. customized for mkg north dublin site*/
 #timetable {
   width: 50vw;
   max-width: 400px;
-
   text-align: left;
 }
 
@@ -387,8 +374,7 @@ html {
 }
 
 
-/* ..................free class form ....................*/
-
+/* .........................free class form .......................*/
 
 #free-class {
   display: flex;
@@ -409,7 +395,6 @@ html {
   margin-bottom: 60px;
   border-radius: 12px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-
 }
 
 .form-inputs {
@@ -452,15 +437,17 @@ html {
 }
 
 
-/* ++++++++++++++++++++++++= Thank you Page +++++++++++++++++++++++++=++++++++++++==*/
+/* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ THANK YOU PAGE +++++++++++++++++++++++++++++++++++++++=++++++++++++++++++++=++++++++++++*/
 
 .thankyou-paragraph {
   text-align: center;
   color: silver;
 }
 
-/*........................... gallery.............................................*/
 
+/* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ GALLERY PAGE +++++++++++++++++++++++++++++++++++++++=++++++++++++++++++++=++++++++++++*/
+
+/* gallery code structure is from code institute love running project and customized for mkg north dublin site*/
 
 #photos {
   clear: both;
@@ -476,9 +463,9 @@ html {
 }
 
 
-/*..................media queries................*/
+/*......................................................................media queries.......................................................................*/
 
-/*................. screen 600px.................*/
+/*.............. small screen..............*/
 
 @media screen and (max-width: 600px) {
   #timetable {
@@ -501,12 +488,6 @@ html {
     margin: 0;
     letter-spacing: 1px;
     padding: 10px;
-  }
-}
-
-@media screen and (max-width: 1200px) {
-  #photos {
-    column-count: 2;
   }
 }
 
@@ -575,5 +556,14 @@ html {
     font-size: 1.25rem;
     width: 100%;
     letter-spacing: 1px;
+  }
+}
+
+
+/*.........medium screen............*/
+
+@media screen and (max-width: 1200px) {
+  #photos {
+    column-count: 2;
   }
 }
