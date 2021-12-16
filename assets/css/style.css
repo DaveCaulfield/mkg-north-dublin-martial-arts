@@ -491,6 +491,12 @@ html {
   }
 }
 
+@media screen and (max-width: 1200px) {
+  #photos {
+    column-count: 2;
+  }
+}
+
 @media screen and (max-width: 500px) {
   #photos {
     column-count: 1;
@@ -560,10 +566,5 @@ html {
 }
 
 
-/*.........medium screen............*/
 
-@media screen and (max-width: 1200px) {
-  #photos {
-    column-count: 2;
-  }
-}
+
