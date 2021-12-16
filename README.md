@@ -182,6 +182,13 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
    ![screen shot of mkg north dublin thank you page](docs/readme-images/thankyou-page.png)
 
+
+### Gallery
+
+   - A gallery page of photos lets the user see more of the club.
+
+![screen shot of gallery page](docs/readme-images/gallery.png)
+
    
 
   [Back to top](#mkg-north-dublin) 
