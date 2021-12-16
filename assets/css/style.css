@@ -251,7 +251,7 @@ html {
   padding-bottom: 10px;
   margin: 10px;
   max-width: 700px;
-  color: silver;
+  color: rgb(235, 230, 230);
 }
 
 .iframe-vid {
@@ -445,7 +445,7 @@ html {
 
 .thankyou-paragraph {
   text-align: center;
-  color: silver;
+  color: rgb(235, 230, 230);
 }
 
 
