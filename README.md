@@ -147,7 +147,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 ### Class Timetable 
    - The class timetable provides an interactive drop down feature that allows easy navigation for the user on both mobile and desktop.
-   - The code structure for the timetable came from [Codepen](https://codepen.io/). The style and content was customized for the MKG North Dublin site.
+   - The code structure for the timetable came from [Codepen](https://codepen.io/). 
 
    ![screen shot mkg north dublin timetable section](docs/readme-images/classes.png)
 
