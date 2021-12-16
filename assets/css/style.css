@@ -497,6 +497,26 @@ html {
   }
 }
 
+
+@media screen and (max-width: 400px) {
+  #nav-ul-list {
+    width: 100%;
+    font-size: 1rem;
+    margin-left: 10px;
+    letter-spacing: 1px;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 400px) {
+nav li {
+  style-type: none;list-
+  margin-right: 10px;
+  margin-top: 10px;
+}
+}
+
+
 @media screen and (max-width: 1200px) {
   #photos {
     column-count: 2;
