@@ -52,12 +52,9 @@ HTML vaildator results:
 # Known Bugs
 
 ## Resolved
-- During testing with physical ios devices, iphone6, iPhone11, iPad the navigation links were found to display on the left hand side of the screen. Windows laptop using Chrome, Edge, Firefox displayed the links correctly on the right hand side of the screen. Dev Tools also displayed the links on the right when testing ios devices, iphone6, iPhone11, iPad. Trouble shooting was carried out trying safari ios specific prefixes and using [CSS auto prefixer](https://autoprefixer.github.io/). The issue was eventually found, with assistance from the Slack community, to be caused by incorrectly using "end" instead of "flex-end" for the justify-content line of code being applied to position the navigations un-ordered list. 
+- During testing with physical ios devices, iphone6, iPhone11 and iPad the navigation links were found to display on the left hand side of the screen instead of the right side. Windows laptop using Chrome, Edge and Firefox all displayed the links correctly on the right hand side of the screen. Dev Tools also displayed the links on the right when set to ios devices, iphone5, iPhone6/7, iPad. Trouble shooting was carried out trying safari ios specific prefixes and using [CSS auto prefixer](https://autoprefixer.github.io/). The issue was eventually found, with assistance from the Slack community, to be caused by incorrectly using "end" instead of "flex-end" for the justify-content line of code being applied to position the navigations un-ordered list. 
 
 ![screen shot of nav ul-list](docs/readme-images/nav-list.png)
-
-
-
 
 
 - During browser testing, Safari ios mobile did not render the icons in the timetable correctly.
