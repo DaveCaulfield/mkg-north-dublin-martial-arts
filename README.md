@@ -38,12 +38,12 @@ The MKG North Dublin website has four pages. The [home](index.html) page, [about
 
 ## Design Choices
 
-* ### Typography
+### Typography
 The fonts used are Lato with a fallback of tahoma for the main heading and hind with a fall back of sans-serif for the section headings and body text.
    *  Lato allows for a less formal and a more welcoming feel to the large bold text used in the main heading on the homepage. 
    *  Hind is used for section heading and gives a less formal, and a more welcoming feel. Hind is also used in the body text and contrasts with the section headings. Its clear and easily readable for the user. 
 
-* ###   Colour scheme
+### Colour scheme
 
 The colour scheme is based on the MKG North Dublin martial arts club colours - black, white, red, yellow.
 Black gives a premium feel to the club website. Subtle use of red, white and yellow help to emphasis different sections and features to the user. The body text was changed from white to silver to add more contrast with the section headings and make the text easier to read.
@@ -55,9 +55,9 @@ Black gives a premium feel to the club website. Subtle use of red, white and yel
 
 The MKG North Dublin website is designed to provide clear information and intuitive navigation for the user. The theme is minimlaist but inviting and encouraging for the user.
 
-# Existing Features
+## Existing Features
 
-## Navigation Menu
+### Navigation Menu
    - The navigation menu sits at the top of all pages on the website. It contains interactive links to all pages guiding the user easily throughout the website.
 
    ![mkg north dublin nav bar](/docs/readme-images/navbar.png)
@@ -65,7 +65,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 [Back to top](#mkg-north-dublin)
 
-## The landing page
+### The landing page
    - The landing page displays an image map of the world with a club tag line and quote. This combines to let the the user know that MKG Noth Dublin is a martial arts club that is part of a wider global martial arts organisation and conveys a welcoming and positive club ethos to the user.
 
 
@@ -76,7 +76,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 [Back to top](#mkg-north-dublin)
 
 
-## Footer
+###  Footer
    - The footer contains contact details and links to social media sites making it easy for the user to contact the club.
    - The phone and email details are inter-active allowing the user to click to connect with the club.
    - The social media icons are inter-active and open in a new tab. The club is very active on social media which allows the user to learn more about the club.
@@ -88,11 +88,11 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 [Back to top](#mkg-north-dublin)
 
-## About page
+### About page
 
    - The about pages provides information to the user about the coaches, the club, the different arts, and the benefits of martial arts practice.
 
-   ## Our Coaches
+### Our Coaches
    - Our Coaches section provides a photo and background information of the coaches. 
    - The coaches smiling in the photo re-assures the user and helps the user connect with the coaches. It conveys a welcoming message of fun to the user.
    - The red, black and white of the instructor photo also connects the websites color scheme with the coaches. 
@@ -103,7 +103,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
   [Back to top](#mkg-north-dublin) 
 
-## Our Story 
+### Our Story 
 
    - Our Story section provides an image of the club logo and gives a brief history of the club and its connection with a global martial arts organisation to the user. This re-assures the user the club has a long history and is also growing.
    - The red, black and white of the logo provide continutity and flow through the website sections. 
@@ -114,7 +114,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
   [Back to top](#mkg-north-dublin)  
 
-  ##  Description of arts
+###  Description of arts
 
    - A description is given of the three main type of martial arts available at the club. This gives the user a clear understanding of what arts the club teaches.
 
@@ -124,7 +124,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
   [Back to top](#mkg-north-dublin)  
   
 
-## Benefits of Martial Arts
+### Benefits of Martial Arts
    - A Benefits of Martial Arts section outlines some of the benefits of training martial arts to the user. 
    - The benefits listed are weighted more toward the mental benefits as they may be less well known to the user. It also gives a less intimating feel to the user.
    - An embedded TedX talk eplains in a more detailed and engaging way what the Filipino martial art of Kali is and the cognitive benfits of it. 
@@ -137,7 +137,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
   [Back to top](#mkg-north-dublin)  
 
 
-  ## Classes page
+### Classes page
    - The Classes page lets the user know that classes are suitable for beginners.
    - Location of the club and classes is provided.
    - An interactive timetable lets the user find out class times.
@@ -145,7 +145,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
    - A form to request a free class is highlighted and has a call to action button.
    - A video demonstrating some training in Jeet Kune Do with a re-assuring quote helps encourage the user to try out a class.
 
-   ## Class Timetable 
+### Class Timetable 
    - The class timetable provides an interactive drop down feature that allows easy navigation for the user on both mobile and desktop.
 
    ![screen shot mkg north dublin timetable section](docs/readme-images/classes.png)
@@ -154,7 +154,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
   [Back to top](#mkg-north-dublin) 
 
-  ## Free Class Form
+### Free Class Form
    - A free class form encourages the user to try a free class. The form stands out on the page and has a call to action submit button.
    - The form has three input fields - first name, last name, and email. All fields are required to allow the form to be submitted.
 
@@ -163,7 +163,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
   [Back to top](#mkg-north-dublin) 
 
-  ## Jeet Kune Do Video
+### Jeet Kune Do Video
    - The video content demonstrating some training in Jeet Kune Do and the quote are re-assuring to the user and helps motivate and encourage the user to try out a class. 
    - The video does not play automatically and is controlled by the user.
 
@@ -173,7 +173,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
   [Back to top](#mkg-north-dublin) 
 
-  ## Free class - Thank You Page
+### Thank You Page
    - A Thank you page greets the user when they submit the free class form.
    - This is used as there is no post function in the website.
    - The Thank you page explains to the user that their free class is waiting for them but the application form did not go through. It informs the user to email the club to arrange their free class. The thank you messaage is signed by the head coach.
@@ -186,7 +186,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
   [Back to top](#mkg-north-dublin) 
 
-  # Future Features
+## Future Features
   - A shop section using an e-commerce platform to allow the club to handle orders received for equipment or clothing.
   - A members area to allow students access the clubs online instructional videos.
 
@@ -210,7 +210,9 @@ Please see [testing](testing.md) page for details of MKG North Dublin website te
  [Back to top](#mkg-north-dublin) 
 
 
- # Deployment
+# Deployment
+
+ ## To deploy the site
  - The site was deployed to GitHub pages. The steps to deploy are as follows:
 
  1. In the Github repository select the **Settings** tab.
