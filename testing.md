@@ -56,22 +56,28 @@ HTML vaildator results:
 # Known Bugs
 
 ## Resolved
-- Physical device testing with ios devices, iphone6, iPhone11 and iPad showed navigation links to display on the left hand side of the screen instead of the right side. Windows laptop using Chrome, Edge and Firefox all displayed the links correctly on the right hand side of the screen. Dev Tools also displayed the links on the right when testing ios devices, iphone5, iPhone6/7, iPad. Trouble shooting was carried out trying safari ios specific prefixes and using [CSS auto prefixer](https://autoprefixer.github.io/). The issue was eventually found, with assistance from the Slack community, to be caused by incorrectly using "end" instead of "flex-end" for the justify-content line of code being applied to position the navigations un-ordered list. 
+- Physical device testing with ios devices, iphone6, iPhone11 and iPad showed navigation links to display on the left hand side of the screen instead of the right side. Windows laptop using Chrome, Edge and Firefox all displayed the links correctly on the right hand side of the screen. Dev Tools also displayed the links on the right when testing ios devices, iphone5, iPhone6/7, iPad. 
+- Trouble shooting was carried out trying safari ios specific prefixes and using [CSS auto prefixer](https://autoprefixer.github.io/). 
+- The issue was eventually found, with assistance from the Slack community, to be caused by incorrectly using "end" instead of "flex-end" for the justify-content line of code being applied to position the navigations un-ordered list. 
 
 ![screen shot of nav ul-list](docs/readme-images/nav-list.png)
 
-- Physical device testing on mobile phones showed that some pages overflowed to the left and right when scrolling. This was debugged using chrome extension [unicorn revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB) and found to be the width of the nav ul extending outside the width ofthe display screen. Setting the width and max-width of the navigation un-ordered list fixed the issue for protrait diplay.
-Further width adjustment to the body paragraphs fixed the issue for landscape display.
+- Physical device testing on mobile phones showed that some pages overflowed to the left and right when scrolling. 
+- This was debugged using chrome extension [unicorn revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB) and found to be the width of the nav ul extending outside the width ofthe display screen. 
+- Setting the width and max-width of the navigation un-ordered list fixed the issue for portrait diplay.
+- Further width adjustment to the body paragraphs fixed the issue for landscape display.
 
 ![screen shot of nav ul-list](docs/readme-images/nav-list.png)
 
 
-- During physical device/browser testing Safari ios mobile did not render the icons in the timetable correctly. All other browsers displayed the icons correctly.
+- During physical device/browser testing, Safari ios mobile did not render the icons in the timetable correctly. All other browsers displayed the icons correctly.
 
 ![screen shot of timetable bug](docs/readme-images/timetable-bug-new.png)
 
 
-- A fix was found on Stackoverflow. A variation selector of \fe0e was added with the css entity to specify it as text not as (default) emoji. Implementing the variation selector resolved the issue.
+- A fix was found on Stackoverflow. 
+- A variation selector of \fe0e was added with the css entity to specify it as text not as (default) emoji. 
+- Implementing the variation selector resolved the issue.
 
 ![screen shot of timetable fix](docs/readme-images/timetable-fix-new.png)
 
@@ -82,7 +88,8 @@ Further width adjustment to the body paragraphs fixed the issue for landscape di
 ![screen shot of timetable bug](docs/readme-images/firefox-submit-query.png)
 
 
-- A value had been omitted for the submit input. When value="submit" was added the submit button feature rendered correctly.
+- A value attribute was found to have been omitted for the submit input. 
+- When value="submit" was added the submit button feature rendered correctly.
 
 ![screen shot of timetable fix](docs/readme-images/firefox-submit-fix.png)
 
@@ -92,7 +99,7 @@ Further width adjustment to the body paragraphs fixed the issue for landscape di
     - This is outside the scope of the project and will be re-visted in further releases for MKG North Dublin.
 
 - While the scroll to top feature works on all browsers the smooth scroll feature doesn't work for safari ios mobile. Smooth scroll works for Chrome, Edge and Firfox browsers.
-    - To fix this a JS polyfill is required but this is outside the scope of this project. It will be fixed in a future release of the website.
+    - To fix this a JS polyfill is required but this is outside the scope of the project. It will be fixed in a future release of the website.
 
 # Additional Testing
 
@@ -108,6 +115,8 @@ Further width adjustment to the body paragraphs fixed the issue for landscape di
 ![Lighthouse screen shot](/docs/readme-images/lighthouse.png)
 
 ## Peer review
-The site was peer reviewed by the Code Institute slack community. This highlighted that the scroll to top feature was not intuitive to the user. The feature was updated to be more intuitive to the user.
+- The site was peer reviewed by the Code Institute slack community. 
+- This highlighted that the scroll to top feature was not intuitive to the user. 
+- The feature was updated to be more intuitive to the user.
 
 Back to [README.md](README.md)
