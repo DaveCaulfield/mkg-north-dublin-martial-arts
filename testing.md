@@ -38,9 +38,13 @@ HTML vaildator results:
     - Media queries were added to ensure responsiveness for smalll screens. 
     - Max width was set to ensure site displayed ok on extra large screen.
     - After adding media queries the site was found to be responsive for small, medium and large screens.
-    - physical devices used in testing were iPhone6, iPhone6, iPhone11, Laptop and extra large monitor.
-    - A discrepency was found in test results between devtools ios devices and ohysical ios devices - see known bugs section.
-    - After issues were fixed the site was found to be responsive on all devices.
+    
+
+## Physical device testing
+    - Physical devices used in testing were iPhone6, iPhone11, iPad, Laptop and extra large monitor.
+    - Disrepencies were found in the test results when using physical devices. There were some differences between Dev Tools iOS devices and physical ios devices - see known bugs section.
+    - After issues were fixed the site was found to be fully responsive on all devices.
+
 
 ## Browser Compatability
 
@@ -52,12 +56,17 @@ HTML vaildator results:
 # Known Bugs
 
 ## Resolved
-- During testing with physical ios devices, iphone6, iPhone11 and iPad the navigation links were found to display on the left hand side of the screen instead of the right side. Windows laptop using Chrome, Edge and Firefox all displayed the links correctly on the right hand side of the screen. Dev Tools also displayed the links on the right when set to ios devices, iphone5, iPhone6/7, iPad. Trouble shooting was carried out trying safari ios specific prefixes and using [CSS auto prefixer](https://autoprefixer.github.io/). The issue was eventually found, with assistance from the Slack community, to be caused by incorrectly using "end" instead of "flex-end" for the justify-content line of code being applied to position the navigations un-ordered list. 
+- Physical device testing with ios devices, iphone6, iPhone11 and iPad showed navigation links to display on the left hand side of the screen instead of the right side. Windows laptop using Chrome, Edge and Firefox all displayed the links correctly on the right hand side of the screen. Dev Tools also displayed the links on the right when testing ios devices, iphone5, iPhone6/7, iPad. Trouble shooting was carried out trying safari ios specific prefixes and using [CSS auto prefixer](https://autoprefixer.github.io/). The issue was eventually found, with assistance from the Slack community, to be caused by incorrectly using "end" instead of "flex-end" for the justify-content line of code being applied to position the navigations un-ordered list. 
+
+![screen shot of nav ul-list](docs/readme-images/nav-list.png)
+
+- Physical device testing on mobile phones showed that some pages overflowed to the left and right when scrolling. This was debugged using chrome extension [unicorn revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB) and found to be the width of the nav ul extending outside the width ofthe display screen. Setting the width and max-width of the navigation un-ordered list fixed the issue for protrait diplay.
+Further width adjustment to the body paragraphs fixed the issue for landscape display.
 
 ![screen shot of nav ul-list](docs/readme-images/nav-list.png)
 
 
-- During browser testing, Safari ios mobile did not render the icons in the timetable correctly.
+- During physical device testing Safari ios mobile did not render the icons in the timetable correctly.
 
 ![screen shot of timetable bug](docs/readme-images/timetable-bug-new.png)
 
