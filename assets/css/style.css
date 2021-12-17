@@ -368,9 +368,18 @@ html {
   max-width: 65em;
 }
 
-.content {
-  font-size: 20px;
+
+.timetable-strong{
+  color: white;
 }
+
+.content {
+ font-size: 20px;
+ color: silver;
+
+}
+
+
 
 .timetable-hr {
   color: #F90716;
