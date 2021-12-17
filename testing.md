@@ -96,7 +96,7 @@ HTML vaildator results:
 
 ## unresolved
 - The free class form displays as a valid form for the user but there is no post function. 
-    - This is outside the scope of the project and will be re-visted in further releases for MKG North Dublin.
+    - This is outside the scope of the project and will be re-visted in future releases for MKG North Dublin.
 
 - While the scroll to top feature works on all browsers the smooth scroll feature doesn't work for safari ios mobile. Smooth scroll works for Chrome, Edge and Firfox browsers.
     - To fix this a JS polyfill is required but this is outside the scope of the project. It will be fixed in a future release of the website.
