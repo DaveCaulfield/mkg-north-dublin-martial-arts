@@ -14,7 +14,6 @@ body {
 }
 
 
-
 /* ....................navigation menu ....................*/
 nav {
   height: 30px;
@@ -498,7 +497,6 @@ html {
   }
 }
 
-
 @media screen and (max-width: 400px) {
   #nav-ul-list {
     width: 100%;
@@ -580,7 +578,6 @@ nav li {
     width: 100vw;
   }
 }
-
 
 @media screen and (max-width: 600px) {
   #clubname-tagline {
