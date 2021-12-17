@@ -590,6 +590,12 @@ nav li {
   }
 }
 
+@media screen and (max-width: 600px){
+.flex-container>p {
+ width:100%;
+ max-width: 100%;
+}
+}
 
 
 
