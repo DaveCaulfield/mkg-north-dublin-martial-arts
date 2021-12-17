@@ -91,7 +91,7 @@ nav a:hover {
 
 #club-tagline {
   color: red;
-  font-weight: 500;
+  font-weight: 520;
 }
 
 .redline-hr {
@@ -151,23 +151,21 @@ nav a:hover {
 
 /* .......................footer section................................*/
 
+.arrow-up{
+  font-size: 3rem;
+  color: rgb(56, 56, 56);
+  padding:10px;
+}
+
+.arrow-up>i:hover{
+color: silver;
+font-size: 3.15rem;
+}
+
 html {
   scroll-behavior: smooth;
 }
 
-.press-up {
-  text-align: center;
-  color: grey;
-  margin-top: -5px;
-  font-weight: bold;
-  letter-spacing: 6px;
-  text-decoration: none;
-  padding-bottom: 10px;
-}
-
-.mkglogotext:hover {
-  box-shadow: 10px 10px 5px yellow;
-}
 
 .footer-contact {
   display: flex;
