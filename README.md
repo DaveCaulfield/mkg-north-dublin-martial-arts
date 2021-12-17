@@ -8,8 +8,10 @@ Welcome to [MKG North Dublin](https://davecaulfield.github.io/mkg-north-dublin-m
 
 # User Experience (UX)
 
+- The user experience (UX) and user interface (UI) was considered from the start. The site aims to give the user an enjoyable experience whilst easily and intuitively navigating the site.
+
 ## Wireframes
-- The wireframes for MKG North Dublin website were produced using Balsamiq. 
+- The wireframes to layout the design and flow for MKG North Dublin website were produced using Balsamiq. 
 - Wireframes were made for mobile and desktop displays. 
 - There are some differences between the original wireframes and the deployed site.
 
