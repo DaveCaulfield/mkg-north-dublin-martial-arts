@@ -490,6 +490,7 @@ html {
 @media screen and (max-width: 600px) {
   #nav-ul-list {
     width: 100%;
+    max-width: 100%;
     font-size: 1.1rem;
     margin: 0;
     letter-spacing: 1px;
@@ -568,7 +569,6 @@ nav li {
 }
 
 @media screen and (max-width: 600px) {
-
   .telephone,
   .email {
     font-size: 1.2rem;
