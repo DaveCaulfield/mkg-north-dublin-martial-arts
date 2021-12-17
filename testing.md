@@ -38,6 +38,11 @@ HTML vaildator results:
     - Media queries were added to ensure responsiveness for smalll screens. 
     - Max width was set to ensure site displayed ok on extra large screen.
     - After adding media queries the site was found to be responsive for small, medium and large screens.
+
+ ![resposive homepage screen shots](/docs/readme-images/motog4.png)
+ ![resposive homepage screen shots](/docs/readme-images/iphone6.png)
+ ![resposive homepage screen shots](/docs/readme-images/ipad.png)
+
     
 
 ## Physical device testing
@@ -59,6 +64,8 @@ HTML vaildator results:
 - Physical device testing with ios devices, iphone6, iPhone11 and iPad showed navigation links to display on the left hand side of the screen instead of the right side. Windows laptop using Chrome, Edge and Firefox all displayed the links correctly on the right hand side of the screen. Dev Tools also displayed the links on the right when testing ios devices, iphone5, iPhone6/7, iPad. 
 - Trouble shooting was carried out trying safari ios specific prefixes and using [CSS auto prefixer](https://autoprefixer.github.io/). 
 - The issue was eventually found, with assistance from the Slack community, to be caused by incorrectly using "end" instead of "flex-end" for the justify-content line of code being applied to position the navigations un-ordered list. 
+- This fix resolved the issue for all ios devices tested.
+- Note - the final style choice centred the nav links for extra small screens.
 
 ![screen shot of nav ul-list](docs/readme-images/nav-list.png)
 
