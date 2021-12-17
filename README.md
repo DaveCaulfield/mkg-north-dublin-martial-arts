@@ -147,7 +147,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 ### Class Timetable 
    - The class timetable provides an interactive drop down feature that allows easy navigation for the user on both mobile and desktop.
-   - The code structure for the timetable came from [Codepen](https://codepen.io/). 
+   - The code structure for the timetable came from [Codepen](https://codepen.io/markcaron/pen/aWamrz). 
 
    ![screen shot mkg north dublin timetable section](docs/readme-images/classes.png)
 
@@ -272,7 +272,7 @@ Cloning the repository creates a local copy on your computer.
  - The wireframes were created using [Balsamiq](https://balsamiq.com/wireframes/)
  - The font came from [GoogleFonts](https://fonts.google.com/)
  - The icons came from [Font Awesome](https://fontawesome.com/)
- - The code structure for the timetable came from [Codepen](https://codepen.io/)
+ - The code structure for the timetable came from [Codepen](https://codepen.io/markcaron/pen/aWamrz)
  - The idea for the landing page zoom and gallery came from [Code Institute - Love Running project](https://codeinstitute.net/ie/)
 
  ## Media
