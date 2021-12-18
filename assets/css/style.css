@@ -59,7 +59,6 @@ nav a:hover {
 
 .active {
   border-bottom: 1px solid red;
-
 }
 
 
@@ -73,7 +72,6 @@ nav a:hover {
 }
 
 .clubname-h1 {
-
   font-family: lato, tahoma;
   text-align: center;
   font-size: 2.6rem;
@@ -131,7 +129,6 @@ nav a:hover {
     transform: scale(1);
   }
 }
-
 
 .homepage-quote {
   display: flex;
@@ -230,7 +227,6 @@ html {
   color: yellow;
 
 }
-
 
 
 /* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ABOUT PAGE+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
@@ -392,7 +388,6 @@ html {
 
 
 /* .........................free class form .......................*/
-
 #free-class {
   display: flex;
   flex-direction: column;
@@ -464,12 +459,9 @@ html {
 /* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ GALLERY PAGE +++++++++++++++++++++++++++++++++++++++=++++++++++++++++++++=++++++++++++*/
 
 /* gallery code structure is from code institute love running project and customized for mkg north dublin site*/
-
-
 .gallery-paragraph{
   text-align: center;
   color: #c4c1c1;
-
 }
 
 #photos {
@@ -612,7 +604,7 @@ nav li {
 .flex-container>p {
  width:90%;
  max-width: 100%;
- padding-left: 3px;
+ padding-left: 2px;
 }
 }
 
