@@ -60,7 +60,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 ## Existing Features
 
 ### Navigation Menu
-   - The navigation menu sits at the top of all pages on the website. It contains interactive links to all pages guiding the user easily throughout the website.
+   - The navigation menu is fixed to the top of all pages on the website. This allows the user easy navigation wherever they are on the site. It contains interactive links to all pages guiding the user easily throughout the website. The active page is highlighted to the user with a red underline.
 
    ![mkg north dublin nav bar](/docs/readme-images/navbar.png)
 
