@@ -185,20 +185,24 @@ html {
   font-size: 1.4rem;
   color: silver;
   margin-bottom: 30px;
+  padding: 10px;
 }
 
 .telephone:hover {
   color: yellow;
+  font-size: 1.41rem;
 }
 
 .email {
   text-decoration: none;
   font-size: 1.4rem;
   color: silver;
+  padding: 10px; 
 }
 
 .email:hover {
   color: yellow;
+  font-size: 1.41rem;
 }
 
 .social-networks {
