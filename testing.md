@@ -1,7 +1,8 @@
 # Testing
+Testing ensured that the MKG North Dublin website appearance, responsiveness and funcionality worked as expected. This gives the user an enjoyable experience when using their device and browser of choice.
 
 ## Code Vaildation
-The code for MKG North Dublin website has been tested using [W3C HTML Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) . There were some minor fixes required after testing including a space left in the telephome number between country code and mobile number. This was corrected and all html and CSS files passed validation checks.
+The code for MKG North Dublin website has been tested using [W3C HTML Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) . There were some minor fixes required after validator testing including a space left in the telephone number between country code and mobile number. This was corrected and all html and CSS files passed validation checks.
 
 HTML vaildator results:
 
@@ -46,20 +47,20 @@ HTML vaildator results:
     
 
 ## Physical device testing
-  - Physical device testing highligted disrepencies in the test results compared to dev tools. 
+  - Physical device testing highligted discrepencies in the test results compared to dev tools. 
   - Differences were found between Dev Tools iOS devices and physical iOS devices - see known bugs section.
   - Physical devices used in testing were iPhone6, iPhone11, iPad, Laptop and extra large monitor.
   - After issues were fixed the site was found to be fully responsive on all devices.
 
 
 ## Browser Compatability
-- The site was tested with Google Chrome, Microsoft Edge, Mozilla Firefox and Safari web browsers. 
+- The site was tested using Google Chrome, Microsoft Edge, Mozilla Firefox and Safari web browsers. 
 - Testing cheked for:
     - Rendering/Appearance
-    - Resposiveness
-    - Functionalality 
+    - Responsiveness
+    - Functionality 
 - Issues were detected with Safari ios and Mozilla Firefox - see Known bugs section for details. 
-- After issues were fixed the site was found to work on all browsers. 
+- After issues were fixed rendering, responsiveness and all functionality worked as expected for site.
 
 
 # Known Bugs
