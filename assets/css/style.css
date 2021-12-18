@@ -465,6 +465,13 @@ html {
 
 /* gallery code structure is from code institute love running project and customized for mkg north dublin site*/
 
+
+.gallery-paragraph{
+  text-align: center;
+  color: #c4c1c1;
+
+}
+
 #photos {
   clear: both;
   line-height: 0;
