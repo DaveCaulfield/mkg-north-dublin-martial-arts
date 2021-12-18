@@ -1,8 +1,10 @@
 # Testing
-Testing ensured that the MKG North Dublin website appearance, responsiveness and funcionality worked as expected. This gives the user an enjoyable experience when using their device and browser of choice.
+Testing ensured that MKG North Dublin website appearance, responsiveness and funcionality worked as expected. It ensures that the user experience is enjoyable whilst using their device and browser of choice.
 
 ## Code Vaildation
-The code for MKG North Dublin website has been tested using [W3C HTML Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) . There were some minor fixes required after validator testing including a space left in the telephone number between country code and mobile number. This was corrected and all html and CSS files passed validation checks.
+- The code for MKG North Dublin website has been tested using [W3C HTML Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
+-  There were some minor fixes required after validator testing including a space left in the telephone number between country code and mobile number. -
+- This was corrected and all HTML and CSS files passed validation checks.
 
 HTML vaildator results:
 
@@ -32,6 +34,8 @@ HTML vaildator results:
 
  ![CSS Vaildator results](/docs/readme-images/css-validator.png)
 
+ Back to [README.md](README.md)
+
 
  ## Responsiveness Testing
 - Responsivness was tested using [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive design checker](https://responsivedesignchecker.com/). 
@@ -40,49 +44,56 @@ HTML vaildator results:
     - Max width was set to ensure site displayed ok on extra large screen.
     - After adding media queries the site was found to be responsive for small, medium and large screens.
 
-![resposive homepage screen shots](/docs/readme-images/ipad.png)
- ![resposive homepage screen shots](/docs/readme-images/iphone6.png)
- ![resposive homepage screen shots](/docs/readme-images/motog4.png)
 
+![resposive homepage screen shots](/docs/readme-images/ipad.png)
+
+ ![resposive homepage screen shots](/docs/readme-images/motog4.png)
+ ![resposive homepage screen shots](/docs/readme-images/iphone6.png)
+
+ Back to [README.md](README.md)
     
 
 ## Physical device testing
   - Physical device testing highligted discrepencies in the test results compared to dev tools. 
   - Differences were found between Dev Tools iOS devices and physical iOS devices - see known bugs section.
   - Physical devices used in testing were iPhone6, iPhone11, iPad, Laptop and extra large monitor.
-  - After issues were fixed the site was found to be fully responsive on all devices.
-
+  - After issues were fixed rendering, responsiveness and all functionality was found to work as expected.
+  
 
 ## Browser Compatability
 - The site was tested using Google Chrome, Microsoft Edge, Mozilla Firefox and Safari web browsers. 
-- Testing cheked for:
+- Testing checked for:
     - Rendering/Appearance
     - Responsiveness
     - Functionality 
 - Issues were detected with Safari ios and Mozilla Firefox - see Known bugs section for details. 
-- After issues were fixed rendering, responsiveness and all functionality worked as expected for site.
+- After issues were fixed rendering, responsiveness and all functionality was found to work as expected.
 
+Back to [README.md](README.md)
 
 # Known Bugs
 
 ## Resolved
-- Physical device testing with ios devices, iphone6, iPhone11 and iPad showed navigation links to display on the left hand side of the screen instead of the right side. Windows laptop using Chrome, Edge and Firefox all displayed the links correctly on the right hand side of the screen. Dev Tools also displayed the links on the right when testing ios devices, iphone5, iPhone6/7, iPad. 
+- Physical device testing with ios devices, iphone6, iPhone11 and iPad showed navigation links to display on the left hand side of the screen instead of the right side.    
+    - Windows laptop using Chrome, Edge and Firefox all displayed the links correctly on the right hand side of the screen. 
+    - Dev Tools also displayed the links on the right when testing ios devices. 
 - Trouble shooting was carried out trying safari ios specific prefixes and using [CSS auto prefixer](https://autoprefixer.github.io/). 
 - The issue was eventually found, with assistance from the Slack community, to be caused by incorrectly using "end" instead of "flex-end" for the justify-content line of code being applied to position the navigations un-ordered list. 
-- This fix resolved the issue for all ios devices tested.
-- Note - the final style choice centred the nav links for extra small screens.
+- This fix resolved the issue for all physical ios devices tested.
+- Note - the final style choice centred the nav links for extra small screens for a better user experience. All other screen sizes display the nav links to the right.
 
 ![screen shot of nav ul-list](docs/readme-images/nav-list.png)
 
 - Physical device testing on mobile phones showed that some pages overflowed to the left and right when scrolling. 
-- This was debugged using chrome extension [unicorn revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB) and found to be the width of the nav ul extending outside the width ofthe display screen. 
-- Setting the width and max-width of the navigation un-ordered list fixed the issue for portrait diplay.
+- This was debugged using chrome extension [unicorn revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB) and found to be caused by the width of the nav ul extending outside the width of the view port. 
+- Setting the width and max-width of the navigation un-ordered list fixed the issue for portrait display.
 - Further width adjustment to the body paragraphs fixed the issue for landscape display.
 
 ![screen shot of nav ul-list](docs/readme-images/nav-list.png)
 
 
-- During physical device/browser testing, Safari ios mobile did not render the icons in the timetable correctly. All other browsers displayed the icons correctly.
+- During physical device/browser testing, Safari ios mobile did not render the icons in the timetable correctly. 
+    - All other browsers displayed the icons correctly.
 
 ![screen shot of timetable bug](docs/readme-images/timetable-bug-new.png)
 
@@ -94,7 +105,8 @@ HTML vaildator results:
 ![screen shot of timetable fix](docs/readme-images/timetable-fix-new.png)
 
 
-- During browser testing, Mozilla Firefox displayed "Submit Query" on the free class submit button. All other browsers displayed "Submit".
+- During browser testing, Mozilla Firefox displayed "Submit Query" on the free class submit button. 
+    - All other browsers displayed "Submit".
 
 
 ![screen shot of timetable bug](docs/readme-images/firefox-submit-query.png)
@@ -105,13 +117,19 @@ HTML vaildator results:
 
 ![screen shot of timetable fix](docs/readme-images/firefox-submit-fix.png)
 
+Back to [README.md](README.md)
+
 
 ## unresolved
 - The free class form displays as a valid form for the user but there is no post function. 
     - This is outside the scope of the project and will be re-visted in future releases for MKG North Dublin.
 
-- While the scroll to top feature works on all browsers the smooth scroll feature doesn't work for safari ios mobile. Smooth scroll works for Chrome, Edge and Firfox browsers.
-    - To fix this a JS polyfill is required but this is outside the scope of the project. It will be fixed in a future release of the website.
+- While the scroll to top feature works on all browsers and devices the smooth scroll feature doesn't work for safari ios mobile. 
+    - Smooth scroll works as expected for Chrome, Edge and Firfox browsers.
+    - To fix this a JS polyfill is required which is outside the scope of the project. 
+    - It will be fixed in a future release of the website.
+
+    Back to [README.md](README.md)
 
 # Additional Testing
 
@@ -126,9 +144,15 @@ HTML vaildator results:
 
 ![Lighthouse screen shot](/docs/readme-images/lighthouse.png)
 
+Back to [README.md](README.md)
+
+
 ## Peer review
 - The site was peer reviewed by the Code Institute slack community. 
 - This highlighted that the scroll to top feature was not intuitive to the user. 
-- The feature was updated to be more intuitive to the user.
+- The feature originally used the MKG text logo as the back to top feature button.
+- This was updated to use an interactive up arrow icon which is much more intuitive to the user.
+
+![footer back to top screen shot](/docs/readme-images/footer.png)
 
 Back to [README.md](README.md)
