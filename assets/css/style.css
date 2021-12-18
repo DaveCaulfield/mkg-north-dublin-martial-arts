@@ -219,12 +219,13 @@ html {
 
 .social-networks i {
   font-size: 260%;
-  padding: 10px;
-  margin: 10px;
+  padding: 20px;
+  
 }
 
 .social-networks i:hover {
   color: yellow;
+  font-size: 265%;
 
 }
 
