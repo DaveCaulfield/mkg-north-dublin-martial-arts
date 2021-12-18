@@ -39,9 +39,9 @@ HTML vaildator results:
     - Max width was set to ensure site displayed ok on extra large screen.
     - After adding media queries the site was found to be responsive for small, medium and large screens.
 
- ![resposive homepage screen shots](/docs/readme-images/motog4.png)
+![resposive homepage screen shots](/docs/readme-images/ipad.png)
  ![resposive homepage screen shots](/docs/readme-images/iphone6.png)
- ![resposive homepage screen shots](/docs/readme-images/ipad.png)
+ ![resposive homepage screen shots](/docs/readme-images/motog4.png)
 
     
 
@@ -53,8 +53,12 @@ HTML vaildator results:
 
 
 ## Browser Compatability
-- The site was thoroughly tested with Google Chrome, Safari, Microsoft Edge and Mozilla Firefox web browsers. 
-- issues were detected on Safari ios and Mozilla Firefox - see Known bugs section for details. 
+- The site was tested with Google Chrome, Microsoft Edge, Mozilla Firefox and Safari web browsers. 
+- Testing cheked for:
+    - Rendering/Appearance
+    - Resposiveness
+    - Functionalality 
+- Issues were detected with Safari ios and Mozilla Firefox - see Known bugs section for details. 
 - After issues were fixed the site was found to work on all browsers. 
 
 
