@@ -1,9 +1,9 @@
 # Testing
-Testing ensured that MKG North Dublin website appearance, responsiveness and funcionality worked as expected. It ensures that the user experience is enjoyable whilst using mobile, tablet or desktop and their browser of choice.
+Testing ensured that MKG North Dublin website appearance, responsiveness and funcionality worked as expected. It ensures that the user experience is enjoyable whilst using mobile, tablet or desktop device and their browser of choice.
 
 ## Code Vaildation
 - The code for MKG North Dublin website has been tested using [W3C HTML Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
--  There were some minor fixes required after validator testing including a space left in the telephone number between country code and mobile number. -
+-  There were some minor fixes required after validator testing including a space left in the telephone number between country code and mobile number. 
 - This was corrected and all HTML and CSS files passed validation checks.
 
 HTML vaildator results:
@@ -39,7 +39,7 @@ HTML vaildator results:
 
  ## Responsiveness Testing
 - Responsivness was tested using [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive design checker](https://responsivedesignchecker.com/). 
-    - Devices tested using these tools were Moto G4, Galaxy S5, iPhone5, iPhone6/7 iPad, iPad pro.
+    - Devices tested using these tools were Moto G4, Galaxy S5, iPhone5, iPhone6/7 iPad, iPad pro,Display <1200px, Display >1200px
     - Media queries were added to ensure responsiveness for smalll screens. 
     - Max width was set to ensure site displayed ok on extra large screen.
     - After adding media queries the site was found to be responsive for small, medium and large screens.
@@ -57,7 +57,7 @@ HTML vaildator results:
   - Physical device testing highligted discrepencies in the test results compared to dev tools. 
   - Differences were found between Dev Tools iOS devices and physical iOS devices - see known bugs section.
   - Physical devices used in testing were iPhone6, iPhone11, iPad, Laptop and extra large monitor.
-  - After issues were fixed rendering, responsiveness and all functionality was found to work as expected.
+  - After issues were fixed the rendering, responsiveness and all functionality of the site was found to work as expected.
   
 
 ## Browser Compatability
@@ -67,23 +67,26 @@ HTML vaildator results:
     - Responsiveness
     - Functionality 
 - Issues were detected with Safari ios and Mozilla Firefox - see Known bugs section for details. 
-- After issues were fixed rendering, responsiveness and all functionality was found to work as expected.
+- After issues were fixed the rendering, responsiveness and all functionality was found to work as expected.
 
 Back to [README.md](README.md)
 
 # Known Bugs
 
 ## Resolved
+
+### nav link position
 - Physical device testing with ios devices, iphone6, iPhone11 and iPad showed navigation links to display on the left hand side of the screen instead of the right side.    
     - Windows laptop using Chrome, Edge and Firefox all displayed the links correctly on the right hand side of the screen. 
     - Dev Tools also displayed the links on the right when testing ios devices. 
 - Trouble shooting was carried out trying safari ios specific prefixes and using [CSS auto prefixer](https://autoprefixer.github.io/). 
 - The issue was eventually found, with assistance from the Slack community, to be caused by incorrectly using "end" instead of "flex-end" for the justify-content line of code being applied to position the navigations un-ordered list. 
 - This fix resolved the issue for all physical ios devices tested.
-- Note - the final style choice centred the nav links for extra small screens for a better user experience. All other screen sizes display the nav links to the right.
+- Note - the final style choice centred the nav links for extra small screens for a better user experience. All other screen sizes correctly display the nav links to the right.
 
 ![screen shot of nav ul-list](docs/readme-images/nav-list.png)
 
+### overflow
 - Physical device testing on mobile phones showed that some pages overflowed to the left and right when scrolling. 
 - This was debugged using chrome extension [unicorn revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB) and found to be caused by the width of the nav ul extending outside the width of the view port. 
 - Setting the width and max-width of the navigation un-ordered list fixed the issue for portrait display.
@@ -91,7 +94,7 @@ Back to [README.md](README.md)
 
 ![screen shot of nav ul-list](docs/readme-images/nav-list.png)
 
-
+### icons
 - During physical device/browser testing, Safari ios mobile did not render the icons in the timetable correctly. 
     - All other browsers displayed the icons correctly.
 
@@ -104,7 +107,7 @@ Back to [README.md](README.md)
 
 ![screen shot of timetable fix](docs/readme-images/timetable-fix-new.png)
 
-
+### submit button
 - During browser testing, Mozilla Firefox displayed "Submit Query" on the free class submit button. 
     - All other browsers displayed "Submit".
 
