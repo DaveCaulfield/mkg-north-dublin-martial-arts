@@ -54,6 +54,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 ### Navigation Menu
    - The navigation menu is fixed to the top of all pages on the website. This allows the user easy navigation wherever they are on the site. It contains interactive links to all pages guiding the user easily throughout the website. The active page is highlighted to the user with a red underline.
+
    ![mkg north dublin nav bar](/docs/readme-images/navbar.png)
 
 
@@ -61,9 +62,8 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 ### The landing page
    - The landing page displays an image map of the world with a club tag line and quote. This combines to let the the user know that MKG North Dublin is a martial arts club that is part of a wider global martial arts organisation and conveys a welcoming and positive club ethos to the user. The idea and code structure for the zoom effect came from the [Code Institute](https://codeinstitute.net/ie/) Love Running project.
+
 ![mkg north dublin landing page](docs/readme-images/landing-page.png)
-
-
 
 [Back to top](#mkg-north-dublin)
 
@@ -73,11 +73,11 @@ The MKG North Dublin website is designed to provide clear information and intuit
    - The phone and email details are inter-active allowing the user to easily click to connect with the club.
    - The social media icons are inter-active and open in a new tab. The club is very active on social media which allows the user to learn more about the club.
    - A scroll to top feature was added in the footer. This allows for easier navigation of the site and a more enjoyable user experience. 
-   
+
 ![mkg north dublin footer](docs/readme-images/footer.png)
 
-
 [Back to top](#mkg-north-dublin)
+
 
 ### About us
 
@@ -88,11 +88,11 @@ The MKG North Dublin website is designed to provide clear information and intuit
    - Our Coaches section provides a photo and background information of the coaches. 
    - The coaches smiling in the photo re-assures the user and helps the user connect with the coaches. It conveys a welcoming message of fun to the user.
    - The red, black and white of the instructor photo also connects the websites colour scheme. 
+
    ![image mkg north dublin coaches](docs/readme-images/our-coaches.png)
 
-
-
   [Back to top](#mkg-north-dublin) 
+
 
 ### Our Story 
 
@@ -101,9 +101,8 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
    ![screen shot mkg north dublin our story section](docs/readme-images/our-story.png)
 
-  
-
   [Back to top](#mkg-north-dublin)  
+
 
 ###  Description of arts
 
@@ -111,7 +110,6 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
    ![screen shot mkg north dublin arts section](docs/readme-images/three-arts.png)
    
-
   [Back to top](#mkg-north-dublin)  
   
 
@@ -123,7 +121,6 @@ The MKG North Dublin website is designed to provide clear information and intuit
    - The video does not play automatically and is controlled by the user.
 
    ![screen shot mkg north dublin benefits section](docs/readme-images/benefits.png)
-
 
   [Back to top](#mkg-north-dublin)  
 
@@ -142,9 +139,8 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
    ![screen shot mkg north dublin timetable section](docs/readme-images/classes.png)
 
-   
-
   [Back to top](#mkg-north-dublin) 
+
 
 ### Free Class Form
    - A free class form encourages the user to try a free class. 
@@ -154,8 +150,8 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
    ![screen shot mkg north dublin free class form](docs/readme-images/free-class-form.png)
 
-
   [Back to top](#mkg-north-dublin) 
+
 
 ### Jeet Kune Do Video
    - The video content demonstrating some training in Jeet Kune Do and the quote are re-assuring to the user and helps motivate and encourage the user to try out a class. 
@@ -163,9 +159,8 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
    ![screen shot mkg north dublin jkd video](docs/readme-images/jkd-video.png)
 
-
-
   [Back to top](#mkg-north-dublin) 
+
 
 ### Thank You Page
    - A Thank you page greets the user when they submit the free class form.
@@ -176,6 +171,8 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
    ![screen shot of mkg north dublin thank you page](docs/readme-images/thankyou-page.png)
 
+[Back to top](#mkg-north-dublin) 
+
 
 ### Gallery
 
@@ -183,9 +180,8 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 ![screen shot of gallery page](docs/readme-images/gallery.png)
 
-   
-
   [Back to top](#mkg-north-dublin) 
+
 
 ## Future Features
   - A shop section utilizing an e-commerce platform to allow the club to handle orders received for equipment & clothing.
@@ -206,7 +202,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 # Testing
 
-Please see [testing](testing.md) page for details of MKG North Dublin website testing. 
+Please see the [testing](testing.md) page for details of MKG North Dublin website testing. 
 
  [Back to top](#mkg-north-dublin) 
 
@@ -256,7 +252,6 @@ Cloning the repository creates a local copy on your computer.
 6. Press **enter** and the local clone will be created.
 
  [Back to top](#mkg-north-dublin) 
-
 
 
  # Credits
