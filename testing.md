@@ -1,5 +1,5 @@
 # Testing
-Testing ensured that MKG North Dublin website appearance, responsiveness and funcionality worked as expected. It ensures that the user experience is enjoyable whilst using their device and browser of choice.
+Testing ensured that MKG North Dublin website appearance, responsiveness and funcionality worked as expected. It ensures that the user experience is enjoyable whilst using mobile, tablet or desktop and their browser of choice.
 
 ## Code Vaildation
 - The code for MKG North Dublin website has been tested using [W3C HTML Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
