@@ -73,6 +73,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
    - The phone and email details are inter-active allowing the user to easily click to connect with the club.
    - The social media icons are inter-active and open in a new tab. The club is very active on social media which allows the user to learn more about the club.
    - A scroll to top feature was added in the footer. This allows for easier navigation of the site and a more enjoyable user experience. 
+   
 ![mkg north dublin footer](docs/readme-images/footer.png)
 
 
