@@ -15,20 +15,13 @@ Welcome to [MKG North Dublin](https://davecaulfield.github.io/mkg-north-dublin-m
 - Wireframes were made for mobile and desktop displays. 
 - There are some differences between the original wireframes and the deployed site.
 
-
 ![screen shot mobile wireframe](/docs/readme-images/mobile-home.jpg)
 ![screen shot mobile wireframe](/docs/readme-images/mobile-about.jpg)
 ![screen shot mobile wireframe](/docs/readme-images/mobile-classes.jpg)
-
 ![screen shot desktop wireframe](/docs/readme-images/wireframe-desktop-1.png)
 ![screen shot desktop wireframe](/docs/readme-images/wireframe-desktop-2.png)
 ![screen shot desktop wireframe](/docs/readme-images/wireframe-desktop-3.png)
 ![screen shot desktop wireframe](/docs/readme-images/wireframe-desktop-4.png)
-
-
-
-
-
 
 [Back to top](#mkg-north-dublin)
 
@@ -51,7 +44,6 @@ The colour scheme is based on the MKG North Dublin martial arts club colours - b
  - Black gives a premium feel to the club website. Subtle use of red, white and yellow help to emphasis different sections and features of the site to the user. 
  - The body text was changed from white to a silver/grey colour (#c4c1c1) to make the text easier to read and add more contrast with the section headings.
 
-
 [Back to top](#mkg-north-dublin)
 
 # Features
@@ -62,7 +54,6 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 ### Navigation Menu
    - The navigation menu is fixed to the top of all pages on the website. This allows the user easy navigation wherever they are on the site. It contains interactive links to all pages guiding the user easily throughout the website. The active page is highlighted to the user with a red underline.
-
    ![mkg north dublin nav bar](/docs/readme-images/navbar.png)
 
 
@@ -70,8 +61,6 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 ### The landing page
    - The landing page displays an image map of the world with a club tag line and quote. This combines to let the the user know that MKG North Dublin is a martial arts club that is part of a wider global martial arts organisation and conveys a welcoming and positive club ethos to the user. The idea and code structure for the zoom effect came from the [Code Institute](https://codeinstitute.net/ie/) Love Running project.
-
-
 ![mkg north dublin landing page](docs/readme-images/landing-page.png)
 
 
@@ -81,12 +70,10 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 ###  Footer
    - The footer contains contact details and links to social media sites making it easy for the user to contact the club.
-   - The phone and email details are inter-active allowing the user to click to connect with the club.
+   - The phone and email details are inter-active allowing the user to easily click to connect with the club.
    - The social media icons are inter-active and open in a new tab. The club is very active on social media which allows the user to learn more about the club.
-   - A scroll to top feature was added using the club logo in the footer. This allows for easier navigation of the site for the user. 
-
+   - A scroll to top feature was added in the footer. This allows for easier navigation of the site and a more enjoyable user experience. 
 ![mkg north dublin footer](docs/readme-images/footer.png)
-
 
 
 [Back to top](#mkg-north-dublin)
@@ -94,12 +81,12 @@ The MKG North Dublin website is designed to provide clear information and intuit
 ### About us
 
    - The about us section is the first paragraph on the about page and provides the club message to the user that the club is fun and suitable for all ages and abiities.
+   ![mkg north dublin about us](/docs/readme-images/about-us.png)
 
 ### Our Coaches
    - Our Coaches section provides a photo and background information of the coaches. 
    - The coaches smiling in the photo re-assures the user and helps the user connect with the coaches. It conveys a welcoming message of fun to the user.
    - The red, black and white of the instructor photo also connects the websites color scheme. 
-
    ![image mkg north dublin coaches](docs/readme-images/our-coaches.png)
 
 
