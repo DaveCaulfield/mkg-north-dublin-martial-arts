@@ -192,7 +192,6 @@ html {
 
 .telephone:hover {
   color: yellow;
-  font-size: 1.41rem;
 }
 
 .email {
@@ -204,7 +203,6 @@ html {
 
 .email:hover {
   color: yellow;
-  font-size: 1.51rem;
 }
 
 .social-networks {
@@ -226,13 +224,10 @@ html {
 .social-networks i {
   font-size: 260%;
   padding: 20px;
-  
 }
 
 .social-networks i:hover {
   color: yellow;
-  font-size: 265%;
-
 }
 
 
