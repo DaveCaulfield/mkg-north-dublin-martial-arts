@@ -247,7 +247,7 @@ Cloning the repository creates a local copy on your computer.
 ![screen shot of github clone](docs/readme-images/github-clone.png)
 
 3. Open **Git Bash** terminal in your IDE.
-4. Create a directory for the cloned repository.
+4. Create or go to the directory for the cloned repository.
 5. Enter command **git clone** and paste the URL copied from GitHub.
 6. Press **enter** and the local clone will be created.
 
