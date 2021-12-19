@@ -82,7 +82,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 ### About us
 
    - The about us section is the first paragraph on the about page and provides the club message to the user that the club is fun and suitable for all ages and abiities.
-   ![mkg north dublin about us](/docs/readme-images/about-us.png)
+   ![mkg north dublin about us](/docs/readme-images/about-us.jpg)
 
 ### Our Coaches
    - Our Coaches section provides a photo and background information of the coaches. 
