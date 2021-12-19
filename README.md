@@ -43,13 +43,13 @@ The MKG North Dublin website has four pages. The [home](index.html) page, [about
 ### Typography
 The fonts used are Lato with a fallback of tahoma for the main heading and hind with a fall back of sans-serif for the section headings and body text.
    *  Lato allows for a less formal and a more welcoming feel to the large bold text used in the main heading on the homepage. 
-   *  Hind is used for section heading and gives a less formal, and a more welcoming feel. Hind is also used in the body text and contrasts with the section headings. Its clear and easily readable for the user. 
+   *  Hind is used for section headings and gives a less formal, and a more welcoming feel. Hind is also used in the body text and contrasts with the section headings. Its clear and easily readable for the user. 
 
 ### Colour scheme
 
 The colour scheme is based on the MKG North Dublin martial arts club colours - black (#000000), white (#ffffff), red (#FF0000), yellow (#ffff00).
- - Black gives a premium feel to the club website. Subtle use of red, white and yellow help to emphasis different parts and features to the user. 
- - The body text was changed from white to silvergrey colour (#c4c1c1) to make the text easier to read and add more contrast with the section headings.
+ - Black gives a premium feel to the club website. Subtle use of red, white and yellow help to emphasis different sections and features of the site to the user. 
+ - The body text was changed from white to a silver/grey colour (#c4c1c1) to make the text easier to read and add more contrast with the section headings.
 
 
 [Back to top](#mkg-north-dublin)
