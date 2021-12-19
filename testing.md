@@ -75,7 +75,7 @@ Back to [README.md](README.md)
 
 ## Resolved
 
-### nav link position
+### - navigation links
 - Physical device testing with ios devices, iphone6, iPhone11 and iPad showed navigation links to display on the left hand side of the screen instead of the right side.    
     - Windows laptop using Chrome, Edge and Firefox all displayed the links correctly on the right hand side of the screen. 
     - Dev Tools also displayed the links on the right when testing ios devices. 
@@ -86,7 +86,7 @@ Back to [README.md](README.md)
 
 ![screen shot of nav ul-list](docs/readme-images/nav-list.png)
 
-### overflow
+### - overflow
 - Physical device testing on mobile phones showed that some pages overflowed to the left and right when scrolling. 
 - This was debugged using chrome extension [unicorn revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB) and found to be caused by the width of the nav ul extending outside the width of the view port. 
 - Setting the width and max-width of the navigation un-ordered list fixed the issue for portrait display.
@@ -94,7 +94,7 @@ Back to [README.md](README.md)
 
 ![screen shot of nav ul-list](docs/readme-images/nav-list.png)
 
-### icons
+### - icons
 - During physical device/browser testing, Safari ios mobile did not render the icons in the timetable correctly. 
     - All other browsers displayed the icons correctly.
 
@@ -107,7 +107,7 @@ Back to [README.md](README.md)
 
 ![screen shot of timetable fix](docs/readme-images/timetable-fix-new.png)
 
-### submit button
+### - submit button
 - During browser testing, Mozilla Firefox displayed "Submit Query" on the free class submit button. 
     - All other browsers displayed "Submit".
 
