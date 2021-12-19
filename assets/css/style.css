@@ -61,8 +61,10 @@ nav a:hover {
   border-bottom: 1px solid red;
 }
 
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ HOME PAGE ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 
-/* ..........................Club name section............................*/
+
+/*........................Club name section.........................*/
 .clubname-container {
   display: flex;
   flex-direction: column;
@@ -195,14 +197,14 @@ html {
 
 .email {
   text-decoration: none;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   color: silver;
   padding: 10px; 
 }
 
 .email:hover {
   color: yellow;
-  font-size: 1.41rem;
+  font-size: 1.51rem;
 }
 
 .social-networks {
