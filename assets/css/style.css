@@ -586,10 +586,10 @@ nav li {
   }
 }
 
-@media screen and (max-width: 600px) {
+media screen and (max-width: 600px) {
   .telephone,
   .email {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
   }
 }
 
@@ -627,6 +627,6 @@ nav li {
   @media screen and (max-width: 350px) {
     
     .email {
-      font-size: 1.1rem;
+      font-size: 1.2rem;
     }
   }
