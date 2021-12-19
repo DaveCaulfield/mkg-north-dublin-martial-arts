@@ -86,7 +86,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 ### Our Coaches
    - Our Coaches section provides a photo and background information of the coaches. 
    - The coaches smiling in the photo re-assures the user and helps the user connect with the coaches. It conveys a welcoming message of fun to the user.
-   - The red, black and white of the instructor photo also connects the websites color scheme. 
+   - The red, black and white of the instructor photo also connects the websites colour scheme. 
    ![image mkg north dublin coaches](docs/readme-images/our-coaches.png)
 
 
@@ -137,7 +137,7 @@ The MKG North Dublin website is designed to provide clear information and intuit
 
 ### Class Timetable 
    - The class timetable provides an interactive drop down feature that allows easy navigation for the user on both mobile and desktop.
-   - The code structure for the timetable came from [Codepen](https://codepen.io/markcaron/pen/aWamrz). 
+   - The code structure for the timetable came from [Codepen](https://codepen.io/markcaron/pen/aWamrz) and was customised for the MKG north Dublin website.
 
    ![screen shot mkg north dublin timetable section](docs/readme-images/classes.png)
 
@@ -146,8 +146,10 @@ The MKG North Dublin website is designed to provide clear information and intuit
   [Back to top](#mkg-north-dublin) 
 
 ### Free Class Form
-   - A free class form encourages the user to try a free class. The form stands out on the page and has a call to action submit button.
-   - The form has three input fields - first name, last name, and email. All fields are required to allow the form to be submitted.
+   - A free class form encourages the user to try a free class. 
+   - The form stands out on the page and has a call to action submit button.
+   - The form has three input fields - first name, last name, and email. 
+   - All fields are required to allow the form to be submitted.
 
    ![screen shot mkg north dublin free class form](docs/readme-images/free-class-form.png)
 
