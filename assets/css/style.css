@@ -457,6 +457,8 @@ h2.page-heading {
 .thankyou-paragraph {
   text-align: center;
   color: #c4c1c1;
+  width: 100%;
+  max-width: 100%;
 }
 
 
@@ -579,6 +581,7 @@ nav li {
 @media screen and (max-width: 800px) {
   .thankyou-paragraph {
     width: 100%;
+    max-width: 100%;
   }
 }
 
