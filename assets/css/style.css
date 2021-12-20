@@ -75,7 +75,7 @@ nav a:hover {
 .clubname-h1 {
   font-family: lato, tahoma;
   text-align: center;
-  font-size: 2.6rem;
+  font-size: 3.3rem;
   letter-spacing: 1px;
   margin-top: 80px;
 }
@@ -545,13 +545,13 @@ nav li {
 
 @media screen and (max-width: 800px) {
   .clubname-h1 {
-    font-size: 2rem;
+    font-size: 2.6rem;
   }
 }
 
 @media screen and (max-width: 560px) {
   .clubname-h1 {
-    font-size: 2.5rem;
+    font-size: 3.3rem;
   }
 }
 
