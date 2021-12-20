@@ -242,7 +242,7 @@ html {
 }
 .page-heading {
   font-size: 28px;
-  margin-top: 85px;
+  margin-top: 85 for h2 headingspx;
 }
 
 .flex-container>h2 {
@@ -585,8 +585,7 @@ nav li {
   }
 }
 
-media screen and (max-width: 600px) {
-  .telephone,
+@media screen and (max-width: 600px) {
   .email {
     font-size: 1.4rem;
   }
@@ -619,7 +618,7 @@ media screen and (max-width: 600px) {
   .flex-container>p {
    width:100%;
    max-width: 100%;
-   padding-left: 0px;
+   padding-left: 2px;
   }
   }
 
