@@ -13,7 +13,6 @@ body {
   color: white;
 }
 
-
 /* ....................navigation menu ....................*/
 nav {
   height: 30px;
@@ -114,8 +113,8 @@ nav a:hover {
 #map-image {
   width: 100%;
 
-  /* animates zoom effect on loading page*/
   /*zoom code structure is from code institute love running project. customized for mkg north dublin site*/
+  /* animates zoom effect on loading page*/
   animation-name: hero-zoom;
   animation-duration: 8s;
   animation-fill-mode: forwards;
@@ -243,7 +242,7 @@ html {
 
 h2.page-heading {
   font-size: 28px;
- padding-top: 30px;
+  padding-top: 30px;
 }
 
 .flex-container>h2 {
@@ -429,7 +428,6 @@ h2.page-heading {
   background-color: white;
 }
 
-
 #free-class #submit {
   background-color: yellow;
   color: black;
@@ -445,10 +443,9 @@ h2.page-heading {
 #free-class #submit:hover {
   border-color: yellow;
   cursor: pointer;
-  
 }
 
-#Musahi-quote {
+#Musashi-quote {
   font-size: 1.2rem;
   text-align: center;
   width: 100%;
@@ -614,6 +611,7 @@ nav li {
 }
 }
 
+/*....... extra small screen.........*/
 @media screen and (max-width: 350px){
   .flex-container>p {
    width:95%;
