@@ -240,9 +240,10 @@ html {
   justify-content: center;
   width: 100%;
 }
-.page-heading {
+
+h2.page-heading {
   font-size: 28px;
-  margin-top: 85 for h2 headingspx;
+ padding-top: 30px;
 }
 
 .flex-container>h2 {
@@ -623,7 +624,6 @@ nav li {
   }
 
   @media screen and (max-width: 400px) {
-    
     .email {
       font-size: 1.15rem;
     }
