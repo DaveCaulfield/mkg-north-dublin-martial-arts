@@ -457,7 +457,7 @@ h2.page-heading {
 .thankyou-paragraph {
   text-align: center;
   color: #c4c1c1;
-  width: 100%;
+   width: 100%;
   max-width: 100%;
 }
 
@@ -490,7 +490,13 @@ h2.page-heading {
 
 @media screen and (max-width: 600px) {
   #timetable {
-    width: 80%;
+    width: 83%;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  #timetable {
+    width: 90%;
   }
 }
 
@@ -501,6 +507,8 @@ h2.page-heading {
     font-size: 1.1rem;
   }
 }
+
+
 
 @media screen and (max-width: 600px) {
   #nav-ul-list {
