@@ -616,7 +616,7 @@ nav li {
 
 @media screen and (max-width: 350px){
   .flex-container>p {
-   width:100%;
+   width:95%;
    max-width: 100%;
    padding-left: 2px;
   }
