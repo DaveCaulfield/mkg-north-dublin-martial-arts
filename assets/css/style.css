@@ -240,10 +240,14 @@ html {
   justify-content: center;
   width: 100%;
 }
+.page-heading {
+  font-size: 28px;
+  margin-top: 85px;
+}
 
 .flex-container>h2 {
   font-size: 28px;
-  margin-top: 80px;
+  margin-top: 50px;
 }
 
 .flex-container>p {
